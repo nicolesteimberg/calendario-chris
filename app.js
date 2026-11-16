@@ -33,6 +33,7 @@
     cursor: null,
     enabled: { youtube: true, tiktok: true, instagram_teste: true, instagram_reel: true },
     selected: null,
+    open: {},
     today: "",
     now: "",
   };
@@ -178,7 +179,8 @@
   function statusColor(status, light) {
     if (light) return "#FFFFFF";
     if (status === "publicado") return "#3D451C";
-    if (status === "falhou" || status === "atencao") return "#B00020";
+    if (status === "falhou") return "#B00020";
+    if (status === "bloqueado" || status === "atencao") return "#4A4A4A";
     if (status === "vazio") return "#6B6B6B";
     return "#846339";
   }
@@ -189,7 +191,13 @@
     if (status === "publicado") {
       svg.appendChild(svgEl("circle", { cx: 8, cy: 8, r: 6.4, stroke: color, "stroke-width": 1.5 }));
       svg.appendChild(svgEl("path", { d: "M4.9 8.2l2.1 2.15 4.2-4.5", stroke: color, "stroke-width": 1.6, "stroke-linecap": "round", "stroke-linejoin": "round" }));
-    } else if (status === "falhou" || status === "atencao") {
+    } else if (status === "bloqueado" || status === "atencao") {
+      svg.appendChild(svgEl("circle", { cx: 8, cy: 8, r: 6.4, stroke: color, "stroke-width": 1.5 }));
+      svg.appendChild(svgEl("path", { d: "M3.6 12.4l8.8-8.8", stroke: color, "stroke-width": 1.6, "stroke-linecap": "round" }));
+    } else if (status === "rotina") {
+      svg.appendChild(svgEl("circle", { cx: 8, cy: 8, r: 6.4, stroke: color, "stroke-width": 1.5, "stroke-dasharray": "3 1.6" }));
+      svg.appendChild(svgEl("path", { d: "M8 4.8v3.7l2.6 1.7", stroke: color, "stroke-width": 1.5, "stroke-linecap": "round", "stroke-linejoin": "round" }));
+    } else if (status === "falhou") {
       svg.appendChild(svgEl("circle", { cx: 8, cy: 8, r: 6.4, stroke: color, "stroke-width": 1.5 }));
       svg.appendChild(svgEl("path", { d: "M5.5 5.5l5 5M10.5 5.5l-5 5", stroke: color, "stroke-width": 1.6, "stroke-linecap": "round" }));
     } else if (status === "vazio") {
@@ -201,7 +209,16 @@
     return svg;
   }
   function statusWord(status) {
-    return ({ publicado: "Postou", agendado: "Agendado", falhou: "Falhou", atencao: "Bloqueado", pendente: "Pendente", vazio: "Vazio" })[status] || status;
+    return ({
+      publicado: "Saiu",
+      agendado: "Agendado",
+      rotina: "Previsto pela rotina",
+      falhou: "Falhou",
+      bloqueado: "Bloqueado (não enviado)",
+      atencao: "Bloqueado (não enviado)",
+      pendente: "Pendente",
+      vazio: "Sem vídeo",
+    })[status] || status;
   }
   function shortTitle(post) {
     const ig = post.platform === "instagram_teste" ? "TESTE · " : post.platform === "instagram_reel" ? "REEL · " : "";
@@ -312,10 +329,12 @@
 
   function renderLegend() {
     const items = [
-      ["publicado", "Postou"],
-      ["agendado", "Agendado / pendente"],
-      ["atencao", "Falhou / bloqueado"],
-      ["vazio", "Vazio"],
+      ["publicado", "Saiu (está no ar)"],
+      ["agendado", "Agendado no Zernio"],
+      ["rotina", "Previsto pela rotina (ainda sem agendamento)"],
+      ["falhou", "Falhou (não foi ao ar)"],
+      ["bloqueado", "Bloqueado (nem foi enviado)"],
+      ["vazio", "Sem vídeo para o horário"],
     ];
     const box = el("div", { class: "card legend-card" }, [el("div", { class: "card-kicker", text: "Status" })]);
     items.forEach(([st, label]) => {
@@ -340,8 +359,9 @@
       const inMonth = parts(date).m === parts(state.cursor).m;
       const isToday = date === state.today;
       const posts = byDate[date] || [];
+      const real = posts.filter(isRealPost);
       let yt = 0, tt = 0, ig = 0;
-      posts.forEach((p) => {
+      real.forEach((p) => {
         if (p.platform === "youtube") yt += 1;
         else if (p.platform === "tiktok") tt += 1;
         else ig += 1;
@@ -353,8 +373,8 @@
       const head = el("div", { class: "day-head" }, [
         el("span", { class: "day-num" + (isToday ? " today" : ""), text: String(parts(date).d) }),
       ]);
-      if (posts.length) {
-        head.appendChild(el("span", { class: "day-total", text: posts.length + (posts.length === 1 ? " post" : " posts") }));
+      if (real.length) {
+        head.appendChild(el("span", { class: "day-total", title: "Saíram + agendados + previstos pela rotina (sem contar falhas, bloqueios e horários sem vídeo)", text: real.length + (real.length === 1 ? " post" : " posts") }));
       }
       cell.appendChild(head);
       if (posts.length) {
@@ -380,10 +400,10 @@
 
   function renderEvent(ev, compact) {
     const { post, col, cols, top, height } = ev;
-    const vazio = post.status === "vazio";
+    const vazio = post.status === "vazio" || post.status === "rotina" || post.status === "bloqueado" || post.status === "atencao";
     const btn = el("button", {
       type: "button",
-      class: "event " + post.platform + (compact ? " compact" : " wide") + (state.selected === post.id ? " selected" : "") + (vazio ? " vazio" : ""),
+      class: "event " + post.platform + (compact ? " compact" : " wide") + (state.selected === post.id ? " selected" : "") + (vazio ? " vazio ev-" + post.status : ""),
       title: PLATFORM_LABEL[post.platform] + " · " + statusWord(post.status) + " · " + post.time + " · " + post.title,
       style: {
         top: top + "px",
@@ -489,6 +509,127 @@
     return aside;
   }
 
+
+  /* ---------- Resumo por plataforma ---------- */
+  const GROUPS = [
+    { key: "instagram", label: "Instagram", logo: "instagram_teste", platforms: ["instagram_reel", "instagram_teste"] },
+    { key: "tiktok", label: "TikTok", logo: "tiktok", platforms: ["tiktok"] },
+    { key: "youtube", label: "YouTube", logo: "youtube", platforms: ["youtube"] },
+  ];
+  function isRealPost(p) {
+    return p.status === "publicado" || p.status === "agendado" || p.status === "rotina";
+  }
+  function isPast(p) {
+    return p.date < state.today || (p.date === state.today && p.time <= state.now);
+  }
+  function bucketOf(p) {
+    if (p.status === "publicado") return "saiu";
+    if (p.status === "agendado" || p.status === "rotina") return isPast(p) ? "conferir" : "previsto";
+    if (p.status === "falhou") return "falhou";
+    if (p.status === "bloqueado" || p.status === "atencao") return "bloqueado";
+    return "semvideo";
+  }
+  function tally(list) {
+    const t = { saiu: [], previsto: [], conferir: [], falhou: [], bloqueado: [], semvideo: [] };
+    list.forEach((p) => t[bucketOf(p)].push(p));
+    t.agendados = t.previsto.filter((p) => p.status === "agendado").length;
+    t.rotina = t.previsto.filter((p) => p.status === "rotina").length;
+    return t;
+  }
+  function igType(p) {
+    if (p.platform === "instagram_reel") return "reel normal";
+    if (p.platform === "instagram_teste") return "reel teste";
+    return "";
+  }
+  function postLine(p, withDate) {
+    const b = el("button", {
+      type: "button",
+      class: "sum-post",
+      title: "Abrir detalhes",
+      onClick: () => { state.selected = p.id; state.cursor = p.date; render(); },
+    });
+    b.appendChild(statusMark(p.status, 12, false));
+    b.appendChild(el("span", { class: "sum-time", text: (withDate ? fmtDay(p.date).slice(0, 5) + " " : "") + p.time }));
+    const extra = igType(p);
+    b.appendChild(el("span", { class: "sum-title", text: p.kind + (extra ? " (" + extra + ")" : "") + " · " + p.title }));
+    b.appendChild(el("span", { class: "sum-st st-" + bucketOf(p), text: bucketOf(p) === "conferir" ? "horário passou" : statusWord(p.status) }));
+    return b;
+  }
+  function statBox(value, label, cls, listKey, list, withDate, sub) {
+    const open = !!state.open[listKey];
+    const box = el("button", {
+      type: "button",
+      class: "stat " + cls + (open ? " open" : "") + (value ? "" : " zero"),
+      "aria-expanded": open ? "true" : "false",
+      title: value ? "Clique para ver quais posts" : "",
+      onClick: () => { if (!value) return; state.open[listKey] = !open; render(); },
+    }, [
+      el("span", { class: "stat-label", text: label }),
+      el("span", { class: "stat-value", text: String(value) }),
+      sub ? el("span", { class: "stat-sub", text: sub }) : null,
+    ]);
+    return { box, open: open && value > 0, list };
+  }
+  function platformCard(group, list, scope, withDate) {
+    const t = tally(list);
+    const card = el("div", { class: "sum-card sum-" + group.key });
+    const head = el("div", { class: "sum-head" });
+    head.appendChild(platformLogo(group.logo, 22));
+    head.appendChild(el("span", { class: "sum-name", text: group.label }));
+    card.appendChild(head);
+    const k = scope + "-" + group.key;
+    const prevSub = t.previsto.length
+      ? [t.agendados ? t.agendados + (t.agendados === 1 ? " agendado" : " agendados") : "", t.rotina ? t.rotina + " pela rotina" : ""].filter(Boolean).join(" + ")
+      : "";
+    const stats = [
+      statBox(t.saiu.length, t.saiu.length === 1 ? "Saiu" : "Saíram", "s-saiu", k + "-saiu", t.saiu, withDate),
+      statBox(t.previsto.length, "Previstos", "s-prev", k + "-prev", t.previsto, withDate, prevSub),
+    ];
+    if (t.falhou.length) stats.push(statBox(t.falhou.length, "Falharam", "s-fail", k + "-fail", t.falhou, withDate));
+    if (t.bloqueado.length) stats.push(statBox(t.bloqueado.length, "Bloqueados", "s-block", k + "-block", t.bloqueado, withDate, "não enviados"));
+    if (t.conferir.length) stats.push(statBox(t.conferir.length, "Horário passou", "s-check", k + "-check", t.conferir, withDate, "aguardando atualização"));
+    const row = el("div", { class: "stat-row" });
+    stats.forEach((st) => row.appendChild(st.box));
+    card.appendChild(row);
+    stats.forEach((st) => {
+      if (!st.open) return;
+      const ul = el("div", { class: "sum-list" });
+      st.list.forEach((p) => ul.appendChild(postLine(p, withDate)));
+      card.appendChild(ul);
+    });
+    if (group.key === "youtube" && !t.saiu.length && !t.previsto.length) {
+      card.appendChild(el("p", { class: "sum-note", text: "Nada agendado pela automação. O Chris publica no YouTube pelo Studio, e a conexão automática está expirada." }));
+    }
+    if (t.semvideo.length && scope === "hoje") {
+      const times = t.semvideo.map((p) => p.time + " " + p.kind.toLowerCase()).join(", ");
+      card.appendChild(el("p", { class: "sum-note", text: "Sem vídeo (não conta): " + times + "." }));
+    }
+    return card;
+  }
+  function renderSummary(posts, weekDays) {
+    const wrap = el("section", { class: "summary", "aria-label": "Resumo por plataforma" });
+    const groups = GROUPS.filter((g) => g.platforms.some((p) => state.enabled[p]));
+    const block = (scope, title, sub, filterFn, withDate) => {
+      const sec = el("div", { class: "sum-block" });
+      const list = posts.filter(filterFn);
+      const t = tally(list);
+      sec.appendChild(el("div", { class: "sum-block-head" }, [
+        el("h2", { class: "sum-block-title", text: title }),
+        el("span", { class: "sum-block-sub", text: sub }),
+        el("span", { class: "sum-total", text: "Total: " + t.saiu.length + (t.saiu.length === 1 ? " saiu" : " saíram") + " · " + t.previsto.length + " previstos" + (t.falhou.length ? " · " + t.falhou.length + " falhou" + (t.falhou.length > 1 ? "ram" : "") : "") }),
+      ]));
+      const grid = el("div", { class: "sum-grid" });
+      groups.forEach((g) => grid.appendChild(platformCard(g, list.filter((p) => g.platforms.includes(p.platform)), scope, withDate)));
+      sec.appendChild(grid);
+      return sec;
+    };
+    wrap.appendChild(block("hoje", "Hoje", fmtLong(state.today) + " · até " + state.now + " (BRT)", (p) => p.date === state.today, false));
+    const w0 = weekDays[0], w6 = weekDays[6];
+    wrap.appendChild(block("semana-" + w0, "Semana", fmtDay(w0).slice(0, 5) + " a " + fmtDay(w6), (p) => p.date >= w0 && p.date <= w6, true));
+    wrap.appendChild(el("p", { class: "sum-help", text: "Saíram = já estão no ar. Previstos = agendados no Zernio + horários da rotina que ainda vão sair. Falharam = tentativa feita que não foi ao ar. Bloqueados = nem foram enviados. Clique num número para ver os posts." }));
+    return wrap;
+  }
+
   function render() {
     const root = document.getElementById("app");
     const clock = nowInBRT();
@@ -500,14 +641,6 @@
     const selectedPost = posts.find((p) => p.id === state.selected) || null;
     const week0 = weekStart(state.cursor);
     const weekDays = Array.from({ length: 7 }, (_, i) => addDays(week0, i));
-    const todayWeek0 = weekStart(state.today);
-    const postsToday = posts.filter((p) => p.date === state.today && p.status === "publicado").length;
-    const agendadosSemana = posts.filter((p) => p.date >= todayWeek0 && p.date <= addDays(todayWeek0, 6) && p.status === "agendado").length;
-    const erros = posts.filter((p) => p.date >= state.today && (p.status === "falhou" || p.status === "atencao")).length;
-    const vaziosSemana = new Set(
-      posts.filter((p) => p.status === "vazio" && p.date >= todayWeek0 && p.date <= addDays(todayWeek0, 6)).map((p) => p.date + "T" + p.time)
-    ).size;
-
     const headerLabel = state.view === "mes"
       ? monthTitle(state.cursor)
       : state.view === "semana"
@@ -555,19 +688,7 @@
     ]));
 
     const main = el("div", { class: "main" });
-    const metrics = el("div", { class: "metrics" });
-    [
-      [String(postsToday), "Posts hoje"],
-      [String(agendadosSemana), "Agendados na semana"],
-      [String(erros), "Erros e bloqueados"],
-      [String(vaziosSemana), "Vazios na semana"],
-    ].forEach(([value, label]) => {
-      metrics.appendChild(el("div", { class: "metric" }, [
-        el("div", { class: "metric-value", text: value }),
-        el("div", { class: "metric-label", text: label }),
-      ]));
-    });
-    main.appendChild(metrics);
+    main.appendChild(renderSummary(posts, weekDays));
     if (state.view === "mes") main.appendChild(renderMonth(byDate));
     else if (state.view === "semana") main.appendChild(renderTimeGrid(weekDays, byDate, true));
     else main.appendChild(renderTimeGrid([state.cursor], byDate, false));

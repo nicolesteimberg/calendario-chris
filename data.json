@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-11-30"
   },
-  "updated": "16/11/2026, 14h53 (BRT, America/São Paulo)",
+  "updated": "16/11/2026, 15h37 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -320,9 +320,9 @@
       "platform": "instagram_teste",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. Trial reel previsto, se houver vídeo."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
     },
     {
       "id": "2026-11-15-tiktok-motion",
@@ -331,9 +331,9 @@
       "platform": "tiktok",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. O Chris vai colocar áudios hoje."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
       "id": "2026-11-16-youtube-yt-block",
@@ -341,10 +341,10 @@
       "time": "10:00",
       "platform": "youtube",
       "title": "O seu conteúdo é mais do mesmo e esse é o motivo",
-      "status": "atencao",
-      "pill": "ATENÇÃO",
+      "status": "bloqueado",
+      "pill": "BLOQUEADO",
       "kind": "YouTube privado",
-      "note": "Bloqueado — reconectar a publicação do YouTube. Corte pronto, nenhum upload feito. A conexão expirou em 16/11 às 12h35."
+      "note": "Não foi enviado: a conexão automática com o YouTube expirou em 16/11 às 12h35. O corte está pronto; nenhum upload foi feito. Não é falha de post: o Chris publica no YouTube pelo Studio."
     },
     {
       "id": "2026-11-16-tiktok-corte",
@@ -376,10 +376,44 @@
       "time": "12:34",
       "platform": "instagram_reel",
       "title": "Por que seus vídeos não viralizam (e a ciência por trás disso)",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "falhou",
+      "pill": "FALHOU",
       "kind": "Reel longo",
-      "note": "Pendente — postar pelo app (Nicole). Três falhas na API do Instagram entre 12h34 e 12h59; nada foi ao ar. Vídeo e legenda prontos."
+      "note": "Falhou — não está no ar. O Instagram não conseguiu processar o vídeo: 3 tentativas pela API (12h34, 12h39 e 12h53), todas recusadas. Vídeo e legenda prontos; o caminho é postar pelo app."
+    },
+    {
+      "id": "2026-11-16-tiktok-narrativa-a",
+      "date": "2026-11-16",
+      "time": "15:18",
+      "platform": "tiktok",
+      "title": "Narrativa A · Às vezes, uma boa ideia muda tudo. 🏎️",
+      "status": "publicado",
+      "pill": "PUBLICADO",
+      "kind": "Narrativa",
+      "link": "https://www.tiktok.com/@chrissteimberg/video/7708835356333853959",
+      "note": "Legenda curta com hashtags."
+    },
+    {
+      "id": "2026-11-16-instagram_reel-narrativa-a",
+      "date": "2026-11-16",
+      "time": "18:00",
+      "platform": "instagram_reel",
+      "title": "Narrativa A · Às vezes, uma boa ideia muda tudo. 🏎️",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Narrativa",
+      "note": "Reel normal no feed. Legenda curta com hashtags."
+    },
+    {
+      "id": "2026-11-16-instagram_teste-narrativa-b",
+      "date": "2026-11-16",
+      "time": "18:00",
+      "platform": "instagram_teste",
+      "title": "Narrativa B · Às vezes, uma boa ideia muda tudo. 🏎️",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Narrativa",
+      "note": "Reel teste (trial), graduação manual. Legenda curta com hashtags."
     },
     {
       "id": "2026-11-16-tiktok-fila-18",
@@ -387,10 +421,21 @@
       "time": "18:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 18h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-11-16-tiktok-narrativa-b",
+      "date": "2026-11-16",
+      "time": "19:30",
+      "platform": "tiktok",
+      "title": "Narrativa B · Às vezes, uma boa ideia muda tudo. 🏎️",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Narrativa",
+      "note": "Legenda curta com hashtags."
     },
     {
       "id": "2026-11-16-instagram_teste-motion",
@@ -399,9 +444,9 @@
       "platform": "instagram_teste",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. Trial reel previsto, se houver vídeo."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
     },
     {
       "id": "2026-11-16-tiktok-motion",
@@ -410,9 +455,9 @@
       "platform": "tiktok",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. O Chris vai colocar áudios hoje."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
       "id": "2026-11-16-tiktok-fila-22",
@@ -420,10 +465,10 @@
       "time": "22:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 22h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário. Até 13/11 a fila saía por volta das 12h20 e das 18h20; a partir de 16/11 os horários previstos são 18h e 22h."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio. Até 13/11 a fila saía por volta das 12h20 e das 18h20; a partir de 16/11 os horários previstos são 18h e 22h."
     },
     {
       "id": "2026-11-17-instagram_teste-corte",
@@ -453,10 +498,10 @@
       "time": "10:00",
       "platform": "youtube",
       "title": "Qualificar audiência ou buscar alcance? Depende do momento",
-      "status": "atencao",
-      "pill": "ATENÇÃO",
+      "status": "bloqueado",
+      "pill": "BLOQUEADO",
       "kind": "YouTube privado",
-      "note": "Bloqueado — reconectar a publicação do YouTube. Corte pronto, nenhum upload feito. A conexão expirou em 16/11 às 12h35."
+      "note": "Não foi enviado: a conexão automática com o YouTube expirou em 16/11 às 12h35. O corte está pronto; nenhum upload foi feito. Não é falha de post: o Chris publica no YouTube pelo Studio."
     },
     {
       "id": "2026-11-17-tiktok-fila-18",
@@ -464,10 +509,10 @@
       "time": "18:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 18h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
       "id": "2026-11-17-instagram_teste-motion",
@@ -476,9 +521,9 @@
       "platform": "instagram_teste",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. Trial reel previsto, se houver vídeo."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
     },
     {
       "id": "2026-11-17-tiktok-motion",
@@ -487,9 +532,9 @@
       "platform": "tiktok",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. O Chris vai colocar áudios hoje."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
       "id": "2026-11-17-tiktok-fila-22",
@@ -497,10 +542,10 @@
       "time": "22:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 22h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
       "id": "2026-11-18-instagram_teste-corte",
@@ -530,10 +575,10 @@
       "time": "10:00",
       "platform": "youtube",
       "title": "Como aumentar o valor percebido da sua oferta",
-      "status": "atencao",
-      "pill": "ATENÇÃO",
+      "status": "bloqueado",
+      "pill": "BLOQUEADO",
       "kind": "YouTube privado",
-      "note": "Bloqueado — reconectar a publicação do YouTube. Corte pronto, nenhum upload feito. A conexão expirou em 16/11 às 12h35."
+      "note": "Não foi enviado: a conexão automática com o YouTube expirou em 16/11 às 12h35. O corte está pronto; nenhum upload foi feito. Não é falha de post: o Chris publica no YouTube pelo Studio."
     },
     {
       "id": "2026-11-18-tiktok-fila-18",
@@ -541,10 +586,10 @@
       "time": "18:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 18h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
       "id": "2026-11-18-instagram_teste-motion",
@@ -553,9 +598,9 @@
       "platform": "instagram_teste",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. Trial reel previsto, se houver vídeo."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
     },
     {
       "id": "2026-11-18-tiktok-motion",
@@ -564,9 +609,9 @@
       "platform": "tiktok",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. O Chris vai colocar áudios hoje."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
       "id": "2026-11-18-tiktok-fila-22",
@@ -574,10 +619,10 @@
       "time": "22:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 22h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
       "id": "2026-11-19-instagram_teste-corte",
@@ -607,10 +652,10 @@
       "time": "10:00",
       "platform": "youtube",
       "title": "Criar conteúdo: o quão relevante é a sua vida?",
-      "status": "atencao",
-      "pill": "ATENÇÃO",
+      "status": "bloqueado",
+      "pill": "BLOQUEADO",
       "kind": "YouTube privado",
-      "note": "Bloqueado — reconectar a publicação do YouTube. Corte pronto, nenhum upload feito. A conexão expirou em 16/11 às 12h35."
+      "note": "Não foi enviado: a conexão automática com o YouTube expirou em 16/11 às 12h35. O corte está pronto; nenhum upload foi feito. Não é falha de post: o Chris publica no YouTube pelo Studio."
     },
     {
       "id": "2026-11-19-tiktok-fila-18",
@@ -618,10 +663,10 @@
       "time": "18:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 18h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
       "id": "2026-11-19-instagram_teste-motion",
@@ -630,9 +675,9 @@
       "platform": "instagram_teste",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. Trial reel previsto, se houver vídeo."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
     },
     {
       "id": "2026-11-19-tiktok-motion",
@@ -641,9 +686,9 @@
       "platform": "tiktok",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. O Chris vai colocar áudios hoje."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
       "id": "2026-11-19-tiktok-fila-22",
@@ -651,10 +696,10 @@
       "time": "22:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 22h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
       "id": "2026-11-20-instagram_teste-corte",
@@ -684,10 +729,10 @@
       "time": "10:00",
       "platform": "youtube",
       "title": "Produzir conteúdo: familiaridade e esforço definem as views",
-      "status": "atencao",
-      "pill": "ATENÇÃO",
+      "status": "bloqueado",
+      "pill": "BLOQUEADO",
       "kind": "YouTube privado",
-      "note": "Bloqueado — reconectar a publicação do YouTube. Corte pronto, nenhum upload feito. A conexão expirou em 16/11 às 12h35."
+      "note": "Não foi enviado: a conexão automática com o YouTube expirou em 16/11 às 12h35. O corte está pronto; nenhum upload foi feito. Não é falha de post: o Chris publica no YouTube pelo Studio."
     },
     {
       "id": "2026-11-20-tiktok-fila-18",
@@ -695,10 +740,10 @@
       "time": "18:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 18h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
       "id": "2026-11-20-instagram_teste-motion",
@@ -707,9 +752,9 @@
       "platform": "instagram_teste",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. Trial reel previsto, se houver vídeo."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
     },
     {
       "id": "2026-11-20-tiktok-motion",
@@ -718,9 +763,9 @@
       "platform": "tiktok",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. O Chris vai colocar áudios hoje."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
       "id": "2026-11-20-tiktok-fila-22",
@@ -728,10 +773,10 @@
       "time": "22:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 22h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
       "id": "2026-11-21-instagram_teste-motion",
@@ -740,9 +785,9 @@
       "platform": "instagram_teste",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. Trial reel previsto, se houver vídeo."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
     },
     {
       "id": "2026-11-21-tiktok-motion",
@@ -751,9 +796,9 @@
       "platform": "tiktok",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. O Chris vai colocar áudios hoje."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
       "id": "2026-11-22-instagram_teste-motion",
@@ -762,9 +807,9 @@
       "platform": "instagram_teste",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. Trial reel previsto, se houver vídeo."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
     },
     {
       "id": "2026-11-22-tiktok-motion",
@@ -773,9 +818,9 @@
       "platform": "tiktok",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. O Chris vai colocar áudios hoje."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
       "id": "2026-11-23-instagram_teste-corte",
@@ -784,7 +829,7 @@
       "platform": "instagram_teste",
       "title": "Corte do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Corte",
       "note": "Nenhum corte preparado para este dia."
     },
@@ -795,7 +840,7 @@
       "platform": "tiktok",
       "title": "Corte do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Corte",
       "note": "Nenhum corte preparado para este dia."
     },
@@ -806,7 +851,7 @@
       "platform": "youtube",
       "title": "Upload privado do corte",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "YouTube privado",
       "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
     },
@@ -816,10 +861,10 @@
       "time": "18:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 18h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
       "id": "2026-11-23-instagram_teste-motion",
@@ -828,9 +873,9 @@
       "platform": "instagram_teste",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. Trial reel previsto, se houver vídeo."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
     },
     {
       "id": "2026-11-23-tiktok-motion",
@@ -839,9 +884,9 @@
       "platform": "tiktok",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. O Chris vai colocar áudios hoje."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
       "id": "2026-11-23-tiktok-fila-22",
@@ -849,10 +894,10 @@
       "time": "22:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 22h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
       "id": "2026-11-24-instagram_teste-corte",
@@ -861,7 +906,7 @@
       "platform": "instagram_teste",
       "title": "Corte do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Corte",
       "note": "Nenhum corte preparado para este dia."
     },
@@ -872,7 +917,7 @@
       "platform": "tiktok",
       "title": "Corte do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Corte",
       "note": "Nenhum corte preparado para este dia."
     },
@@ -883,7 +928,7 @@
       "platform": "youtube",
       "title": "Upload privado do corte",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "YouTube privado",
       "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
     },
@@ -893,10 +938,10 @@
       "time": "18:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 18h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
       "id": "2026-11-24-instagram_teste-motion",
@@ -905,9 +950,9 @@
       "platform": "instagram_teste",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. Trial reel previsto, se houver vídeo."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
     },
     {
       "id": "2026-11-24-tiktok-motion",
@@ -916,9 +961,9 @@
       "platform": "tiktok",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. O Chris vai colocar áudios hoje."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
       "id": "2026-11-24-tiktok-fila-22",
@@ -926,10 +971,10 @@
       "time": "22:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 22h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
       "id": "2026-11-25-instagram_teste-corte",
@@ -938,7 +983,7 @@
       "platform": "instagram_teste",
       "title": "Corte do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Corte",
       "note": "Nenhum corte preparado para este dia."
     },
@@ -949,7 +994,7 @@
       "platform": "tiktok",
       "title": "Corte do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Corte",
       "note": "Nenhum corte preparado para este dia."
     },
@@ -960,7 +1005,7 @@
       "platform": "youtube",
       "title": "Upload privado do corte",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "YouTube privado",
       "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
     },
@@ -970,10 +1015,10 @@
       "time": "18:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 18h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
       "id": "2026-11-25-instagram_teste-motion",
@@ -982,9 +1027,9 @@
       "platform": "instagram_teste",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. Trial reel previsto, se houver vídeo."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
     },
     {
       "id": "2026-11-25-tiktok-motion",
@@ -993,9 +1038,9 @@
       "platform": "tiktok",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. O Chris vai colocar áudios hoje."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
       "id": "2026-11-25-tiktok-fila-22",
@@ -1003,10 +1048,10 @@
       "time": "22:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 22h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
       "id": "2026-11-26-instagram_teste-corte",
@@ -1015,7 +1060,7 @@
       "platform": "instagram_teste",
       "title": "Corte do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Corte",
       "note": "Nenhum corte preparado para este dia."
     },
@@ -1026,7 +1071,7 @@
       "platform": "tiktok",
       "title": "Corte do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Corte",
       "note": "Nenhum corte preparado para este dia."
     },
@@ -1037,7 +1082,7 @@
       "platform": "youtube",
       "title": "Upload privado do corte",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "YouTube privado",
       "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
     },
@@ -1047,10 +1092,10 @@
       "time": "18:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 18h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
       "id": "2026-11-26-instagram_teste-motion",
@@ -1059,9 +1104,9 @@
       "platform": "instagram_teste",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. Trial reel previsto, se houver vídeo."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
     },
     {
       "id": "2026-11-26-tiktok-motion",
@@ -1070,9 +1115,9 @@
       "platform": "tiktok",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. O Chris vai colocar áudios hoje."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
       "id": "2026-11-26-tiktok-fila-22",
@@ -1080,10 +1125,10 @@
       "time": "22:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 22h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
       "id": "2026-11-27-instagram_teste-corte",
@@ -1092,7 +1137,7 @@
       "platform": "instagram_teste",
       "title": "Corte do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Corte",
       "note": "Nenhum corte preparado para este dia."
     },
@@ -1103,7 +1148,7 @@
       "platform": "tiktok",
       "title": "Corte do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Corte",
       "note": "Nenhum corte preparado para este dia."
     },
@@ -1114,7 +1159,7 @@
       "platform": "youtube",
       "title": "Upload privado do corte",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "YouTube privado",
       "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
     },
@@ -1124,10 +1169,10 @@
       "time": "18:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 18h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
       "id": "2026-11-27-instagram_teste-motion",
@@ -1136,9 +1181,9 @@
       "platform": "instagram_teste",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. Trial reel previsto, se houver vídeo."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
     },
     {
       "id": "2026-11-27-tiktok-motion",
@@ -1147,9 +1192,9 @@
       "platform": "tiktok",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. O Chris vai colocar áudios hoje."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
       "id": "2026-11-27-tiktok-fila-22",
@@ -1157,10 +1202,10 @@
       "time": "22:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 22h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
       "id": "2026-11-28-instagram_teste-motion",
@@ -1169,9 +1214,9 @@
       "platform": "instagram_teste",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. Trial reel previsto, se houver vídeo."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
     },
     {
       "id": "2026-11-28-tiktok-motion",
@@ -1180,9 +1225,9 @@
       "platform": "tiktok",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. O Chris vai colocar áudios hoje."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
       "id": "2026-11-29-instagram_teste-motion",
@@ -1191,9 +1236,9 @@
       "platform": "instagram_teste",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. Trial reel previsto, se houver vídeo."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
     },
     {
       "id": "2026-11-29-tiktok-motion",
@@ -1202,9 +1247,9 @@
       "platform": "tiktok",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. O Chris vai colocar áudios hoje."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
       "id": "2026-11-30-instagram_teste-corte",
@@ -1213,7 +1258,7 @@
       "platform": "instagram_teste",
       "title": "Corte do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Corte",
       "note": "Nenhum corte preparado para este dia."
     },
@@ -1224,7 +1269,7 @@
       "platform": "tiktok",
       "title": "Corte do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Corte",
       "note": "Nenhum corte preparado para este dia."
     },
@@ -1235,7 +1280,7 @@
       "platform": "youtube",
       "title": "Upload privado do corte",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "YouTube privado",
       "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
     },
@@ -1245,10 +1290,10 @@
       "time": "18:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 18h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
       "id": "2026-11-30-instagram_teste-motion",
@@ -1257,9 +1302,9 @@
       "platform": "instagram_teste",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. Trial reel previsto, se houver vídeo."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
     },
     {
       "id": "2026-11-30-tiktok-motion",
@@ -1268,9 +1313,9 @@
       "platform": "tiktok",
       "title": "Motion do dia",
       "status": "vazio",
-      "pill": "VAZIO",
+      "pill": "SEM VÍDEO",
       "kind": "Motion",
-      "note": "Vazio — sem áudio novo na fila. O Chris vai colocar áudios hoje."
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
       "id": "2026-11-30-tiktok-fila-22",
@@ -1278,10 +1323,10 @@
       "time": "22:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 22h",
-      "status": "pendente",
-      "pill": "PENDENTE",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
-      "note": "Há itens pendentes na fila, mas nenhum post está agendado para este horário."
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     }
   ]
 }

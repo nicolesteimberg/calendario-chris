@@ -3,3 +3,4 @@ __pycache__/
 sources.local.json
 .DS_Store
 .idea/
+*.local.json
