@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "16/11/2026, 17h05 (BRT, America/São Paulo)",
+  "updated": "16/11/2026, 18h16 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -381,17 +381,6 @@
       "note": "Reel teste (trial), graduação manual. Legenda curta com hashtags."
     },
     {
-      "id": "2026-11-16-tiktok-fila-18",
-      "date": "2026-11-16",
-      "time": "18:00",
-      "platform": "tiktok",
-      "title": "Fila do TikTok · 18h",
-      "status": "rotina",
-      "pill": "PREVISTO (ROTINA)",
-      "kind": "Fila TikTok",
-      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
-    },
-    {
       "id": "2026-11-16-youtube-corte",
       "date": "2026-11-16",
       "time": "18:00",
@@ -401,6 +390,17 @@
       "pill": "AGENDADO",
       "kind": "Corte Trabalhado",
       "note": "Short agendado no YouTube: fica público sozinho em 16/11 às 18h00. Título e descrição aprovados, idioma pt-BR."
+    },
+    {
+      "id": "2026-11-16-tiktok-fila-18:12",
+      "date": "2026-11-16",
+      "time": "18:12",
+      "platform": "tiktok",
+      "title": "Ser especialista ou generalista?",
+      "status": "publicado",
+      "pill": "PUBLICADO",
+      "kind": "Fila TikTok",
+      "note": "Publicado na fila do TikTok. A URL pública não ficou gravada."
     },
     {
       "id": "2026-11-16-tiktok-narrativa-b",
