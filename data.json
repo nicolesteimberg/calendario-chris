@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "16/11/2026, 18h16 (BRT, America/São Paulo)",
+  "updated": "16/11/2026, 18h21 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -375,8 +375,8 @@
       "time": "18:00",
       "platform": "instagram_teste",
       "title": "Narrativa B · Às vezes, uma boa ideia muda tudo. 🏎️",
-      "status": "agendado",
-      "pill": "AGENDADO",
+      "status": "publicado",
+      "pill": "PUBLICADO",
       "kind": "Narrativa",
       "note": "Reel teste (trial), graduação manual. Legenda curta com hashtags."
     },
@@ -386,10 +386,11 @@
       "time": "18:00",
       "platform": "youtube",
       "title": "O seu conteúdo é mais do mesmo e esse é o motivo",
-      "status": "agendado",
-      "pill": "AGENDADO",
+      "status": "publicado",
+      "pill": "PUBLICADO",
       "kind": "Corte Trabalhado",
-      "note": "Short agendado no YouTube: fica público sozinho em 16/11 às 18h00. Título e descrição aprovados, idioma pt-BR."
+      "link": "https://www.youtube.com/shorts/76Y2ENBh8n0",
+      "note": "Ficou público às 18h00. Conferido ao vivo no YouTube."
     },
     {
       "id": "2026-11-16-tiktok-fila-18:12",
