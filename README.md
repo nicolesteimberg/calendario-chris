@@ -61,7 +61,7 @@ Abra `http://127.0.0.1:8080`. Abrir o `index.html` direto no disco não carrega 
 No topo há dois blocos, **Hoje** e **Semana** (a semana que está na tela), com um cartão por plataforma:
 
 - **Saíram**: posts que já estão no ar.
-- **Previstos**: agendados no Zernio + horários da rotina (fila do TikTok 18h e 22h em dias úteis) que ainda vão sair.
+- **Previstos**: agendados (no Zernio ou direto no YouTube, como os Shorts privados com data para virar públicos) + horários da rotina (fila do TikTok 18h e 22h em dias úteis) que ainda vão sair.
 - **Falharam**: houve tentativa e o post não foi ao ar.
 - **Bloqueados**: nem chegaram a ser enviados (ex.: conexão do YouTube expirada).
 - **Horário passou**: estava agendado/previsto, o horário já passou e o site ainda não foi atualizado.

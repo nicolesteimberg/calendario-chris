@@ -330,7 +330,7 @@
   function renderLegend() {
     const items = [
       ["publicado", "Saiu (está no ar)"],
-      ["agendado", "Agendado no Zernio"],
+      ["agendado", "Agendado (Zernio ou YouTube)"],
       ["rotina", "Previsto pela rotina (ainda sem agendamento)"],
       ["falhou", "Falhou (não foi ao ar)"],
       ["bloqueado", "Bloqueado (nem foi enviado)"],
@@ -598,7 +598,7 @@
       card.appendChild(ul);
     });
     if (group.key === "youtube" && !t.saiu.length && !t.previsto.length) {
-      card.appendChild(el("p", { class: "sum-note", text: "Nada agendado pela automação. O Chris publica no YouTube pelo Studio, e a conexão automática está expirada." }));
+      card.appendChild(el("p", { class: "sum-note", text: "Nada agendado no YouTube para este período." }));
     }
     if (t.semvideo.length && scope === "hoje") {
       const times = t.semvideo.map((p) => p.time + " " + p.kind.toLowerCase()).join(", ");
@@ -626,7 +626,7 @@
     wrap.appendChild(block("hoje", "Hoje", fmtLong(state.today) + " · até " + state.now + " (BRT)", (p) => p.date === state.today, false));
     const w0 = weekDays[0], w6 = weekDays[6];
     wrap.appendChild(block("semana-" + w0, "Semana", fmtDay(w0).slice(0, 5) + " a " + fmtDay(w6), (p) => p.date >= w0 && p.date <= w6, true));
-    wrap.appendChild(el("p", { class: "sum-help", text: "Saíram = já estão no ar. Previstos = agendados no Zernio + horários da rotina que ainda vão sair. Falharam = tentativa feita que não foi ao ar. Bloqueados = nem foram enviados. Clique num número para ver os posts." }));
+    wrap.appendChild(el("p", { class: "sum-help", text: "Saíram = já estão no ar. Previstos = agendados (Zernio ou YouTube) + horários da rotina que ainda vão sair. Falharam = tentativa feita que não foi ao ar. Bloqueados = nem foram enviados. Clique num número para ver os posts." }));
     return wrap;
   }
 

@@ -3,9 +3,9 @@
   "timezone": "America/Sao_Paulo",
   "window": {
     "start": "2026-11-09",
-    "end": "2026-11-30"
+    "end": "2026-12-06"
   },
-  "updated": "16/11/2026, 15h37 (BRT, America/São Paulo)",
+  "updated": "16/11/2026, 16h15 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -143,18 +143,6 @@
       "link": "https://www.tiktok.com/@chrissteimberg/video/7706867139482832149"
     },
     {
-      "id": "2026-11-11-youtube-corte",
-      "date": "2026-11-11",
-      "time": "08:02",
-      "platform": "youtube",
-      "title": "Fazer tudo ao mesmo tempo está travando o seu conteúdo",
-      "status": "publicado",
-      "pill": "PUBLICADO",
-      "kind": "Corte Cru",
-      "link": "https://www.youtube.com/shorts/9J0mBFTfb8A",
-      "note": "No registro como publicado. Em 13/11 o YouTube ainda mostrava este Short como privado. Sem nova conferência hoje."
-    },
-    {
       "id": "2026-11-11-tiktok-fila-12:28",
       "date": "2026-11-11",
       "time": "12:28",
@@ -198,18 +186,6 @@
       "pill": "PUBLICADO",
       "kind": "Corte Trabalhado",
       "link": "https://www.tiktok.com/@chrissteimberg/video/7707238473979251986"
-    },
-    {
-      "id": "2026-11-12-youtube-corte",
-      "date": "2026-11-12",
-      "time": "08:01",
-      "platform": "youtube",
-      "title": "Mentoria ou consultoria: como cobrar mais caro com acesso ao especialista",
-      "status": "publicado",
-      "pill": "PUBLICADO",
-      "kind": "Corte Trabalhado",
-      "link": "https://www.youtube.com/shorts/YG-Wq1V9GNo",
-      "note": "No registro como publicado. Em 13/11 o YouTube ainda mostrava este Short como privado. Sem nova conferência hoje."
     },
     {
       "id": "2026-11-12-tiktok-fila-12:19",
@@ -493,6 +469,17 @@
       "note": "Agendado para 08h00 (BRT)."
     },
     {
+      "id": "2026-11-17-youtube-short-0800",
+      "date": "2026-11-17",
+      "time": "08:00",
+      "platform": "youtube",
+      "title": "Fazer tudo ao mesmo tempo está travando o seu conteúdo",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 17/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos. É o corte de 11/11, que tinha subido privado e não foi ao ar."
+    },
+    {
       "id": "2026-11-17-youtube-yt-block",
       "date": "2026-11-17",
       "time": "10:00",
@@ -502,6 +489,28 @@
       "pill": "BLOQUEADO",
       "kind": "YouTube privado",
       "note": "Não foi enviado: a conexão automática com o YouTube expirou em 16/11 às 12h35. O corte está pronto; nenhum upload foi feito. Não é falha de post: o Chris publica no YouTube pelo Studio."
+    },
+    {
+      "id": "2026-11-17-youtube-short-1200",
+      "date": "2026-11-17",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Mentoria ou consultoria: como cobrar mais caro com acesso ao especialista",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 17/11 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos. É o corte de 12/11, que tinha subido privado e não foi ao ar."
+    },
+    {
+      "id": "2026-11-17-youtube-short-1500",
+      "date": "2026-11-17",
+      "time": "15:00",
+      "platform": "youtube",
+      "title": "Antes de comunicar, tenha essas 2 coisas definidas",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 17/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
       "id": "2026-11-17-tiktok-fila-18",
@@ -570,6 +579,17 @@
       "note": "Agendado para 08h00 (BRT)."
     },
     {
+      "id": "2026-11-18-youtube-short-0800",
+      "date": "2026-11-18",
+      "time": "08:00",
+      "platform": "youtube",
+      "title": "Só expor uma prova social de qualquer forma, está mais atrapalhando do",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 18/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
       "id": "2026-11-18-youtube-yt-block",
       "date": "2026-11-18",
       "time": "10:00",
@@ -579,6 +599,28 @@
       "pill": "BLOQUEADO",
       "kind": "YouTube privado",
       "note": "Não foi enviado: a conexão automática com o YouTube expirou em 16/11 às 12h35. O corte está pronto; nenhum upload foi feito. Não é falha de post: o Chris publica no YouTube pelo Studio."
+    },
+    {
+      "id": "2026-11-18-youtube-short-1200",
+      "date": "2026-11-18",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Para vender mentorias, esse é o caminho",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 18/11 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-11-18-youtube-short-1500",
+      "date": "2026-11-18",
+      "time": "15:00",
+      "platform": "youtube",
+      "title": "Frequência gera relevância",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 18/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
       "id": "2026-11-18-tiktok-fila-18",
@@ -647,6 +689,17 @@
       "note": "Agendado para 08h00 (BRT)."
     },
     {
+      "id": "2026-11-19-youtube-short-0800",
+      "date": "2026-11-19",
+      "time": "08:00",
+      "platform": "youtube",
+      "title": "Seu conteúdo não pode ser só “legal”",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 19/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
       "id": "2026-11-19-youtube-yt-block",
       "date": "2026-11-19",
       "time": "10:00",
@@ -656,6 +709,28 @@
       "pill": "BLOQUEADO",
       "kind": "YouTube privado",
       "note": "Não foi enviado: a conexão automática com o YouTube expirou em 16/11 às 12h35. O corte está pronto; nenhum upload foi feito. Não é falha de post: o Chris publica no YouTube pelo Studio."
+    },
+    {
+      "id": "2026-11-19-youtube-short-1200",
+      "date": "2026-11-19",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Um dos maiores problemas de mentores",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 19/11 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-11-19-youtube-short-1500",
+      "date": "2026-11-19",
+      "time": "15:00",
+      "platform": "youtube",
+      "title": "Sorte não paga o boleto do próximo mês, e nem coloca dinheiro no seu",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 19/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
       "id": "2026-11-19-tiktok-fila-18",
@@ -724,6 +799,17 @@
       "note": "Agendado para 08h00 (BRT)."
     },
     {
+      "id": "2026-11-20-youtube-short-0800",
+      "date": "2026-11-20",
+      "time": "08:00",
+      "platform": "youtube",
+      "title": "Você é inseguro, e isso está acabando com o seu negócio",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 20/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
       "id": "2026-11-20-youtube-yt-block",
       "date": "2026-11-20",
       "time": "10:00",
@@ -733,6 +819,28 @@
       "pill": "BLOQUEADO",
       "kind": "YouTube privado",
       "note": "Não foi enviado: a conexão automática com o YouTube expirou em 16/11 às 12h35. O corte está pronto; nenhum upload foi feito. Não é falha de post: o Chris publica no YouTube pelo Studio."
+    },
+    {
+      "id": "2026-11-20-youtube-short-1200",
+      "date": "2026-11-20",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Não tem segredo mutchacho",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 20/11 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-11-20-youtube-short-1500",
+      "date": "2026-11-20",
+      "time": "15:00",
+      "platform": "youtube",
+      "title": "O grande problema da indicação para mentores",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 20/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
       "id": "2026-11-20-tiktok-fila-18",
@@ -779,6 +887,39 @@
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
+      "id": "2026-11-21-youtube-short-0800",
+      "date": "2026-11-21",
+      "time": "08:00",
+      "platform": "youtube",
+      "title": "Quer viralizar? Esse jogo não é pra você!",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 21/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-11-21-youtube-short-1200",
+      "date": "2026-11-21",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Todo mentor deveria ter esse 4 tipos de conteúdo dentro do seu perfil",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 21/11 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-11-21-youtube-short-1500",
+      "date": "2026-11-21",
+      "time": "15:00",
+      "platform": "youtube",
+      "title": "Anticomplexidade!",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 21/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
       "id": "2026-11-21-instagram_teste-motion",
       "date": "2026-11-21",
       "time": "21:00",
@@ -799,6 +940,39 @@
       "pill": "SEM VÍDEO",
       "kind": "Motion",
       "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
+    },
+    {
+      "id": "2026-11-22-youtube-short-0800",
+      "date": "2026-11-22",
+      "time": "08:00",
+      "platform": "youtube",
+      "title": "O caminho é esse…",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 22/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-11-22-youtube-short-1200",
+      "date": "2026-11-22",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Não dá pra entender isso…",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 22/11 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-11-22-youtube-short-1500",
+      "date": "2026-11-22",
+      "time": "15:00",
+      "platform": "youtube",
+      "title": "Os números visíveis estão te iludindo",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 22/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
       "id": "2026-11-22-instagram_teste-motion",
@@ -845,6 +1019,17 @@
       "note": "Nenhum corte preparado para este dia."
     },
     {
+      "id": "2026-11-23-youtube-short-0800",
+      "date": "2026-11-23",
+      "time": "08:00",
+      "platform": "youtube",
+      "title": "A diferença está nesse sútil detalhe",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 23/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
       "id": "2026-11-23-youtube-yt",
       "date": "2026-11-23",
       "time": "10:00",
@@ -854,6 +1039,28 @@
       "pill": "SEM VÍDEO",
       "kind": "YouTube privado",
       "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
+    },
+    {
+      "id": "2026-11-23-youtube-short-1200",
+      "date": "2026-11-23",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "A dopamina pode atrasar anos de evolução do seu negócio",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 23/11 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-11-23-youtube-short-1500",
+      "date": "2026-11-23",
+      "time": "15:00",
+      "platform": "youtube",
+      "title": "Não adianta vender o que você quer, venda o que o seu cliente quer de",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 23/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
       "id": "2026-11-23-tiktok-fila-18",
@@ -922,6 +1129,17 @@
       "note": "Nenhum corte preparado para este dia."
     },
     {
+      "id": "2026-11-24-youtube-short-0800",
+      "date": "2026-11-24",
+      "time": "08:00",
+      "platform": "youtube",
+      "title": "Exercício simples para mentores",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 24/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
       "id": "2026-11-24-youtube-yt",
       "date": "2026-11-24",
       "time": "10:00",
@@ -931,6 +1149,28 @@
       "pill": "SEM VÍDEO",
       "kind": "YouTube privado",
       "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
+    },
+    {
+      "id": "2026-11-24-youtube-short-1200",
+      "date": "2026-11-24",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Mentoria é o melhor produto que existe (e o que mais coloca dinheiro",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 24/11 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-11-24-youtube-short-1500",
+      "date": "2026-11-24",
+      "time": "15:00",
+      "platform": "youtube",
+      "title": "Não adianta, o básico sempre funciona @chrissteimberg",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 24/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
       "id": "2026-11-24-tiktok-fila-18",
@@ -999,6 +1239,17 @@
       "note": "Nenhum corte preparado para este dia."
     },
     {
+      "id": "2026-11-25-youtube-short-0800",
+      "date": "2026-11-25",
+      "time": "08:00",
+      "platform": "youtube",
+      "title": "Não ignore os fundamentos",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 25/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
       "id": "2026-11-25-youtube-yt",
       "date": "2026-11-25",
       "time": "10:00",
@@ -1008,6 +1259,28 @@
       "pill": "SEM VÍDEO",
       "kind": "YouTube privado",
       "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
+    },
+    {
+      "id": "2026-11-25-youtube-short-1200",
+      "date": "2026-11-25",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Será mesmo que você é tão auto-suficiente assim?",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 25/11 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-11-25-youtube-short-1500",
+      "date": "2026-11-25",
+      "time": "15:00",
+      "platform": "youtube",
+      "title": "Ser um homem comum, se tornou algo extraordinário",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 25/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
       "id": "2026-11-25-tiktok-fila-18",
@@ -1076,6 +1349,17 @@
       "note": "Nenhum corte preparado para este dia."
     },
     {
+      "id": "2026-11-26-youtube-short-0800",
+      "date": "2026-11-26",
+      "time": "08:00",
+      "platform": "youtube",
+      "title": "Sem meta, tudo se torna um grande tiro no escuro quando estamos",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 26/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
       "id": "2026-11-26-youtube-yt",
       "date": "2026-11-26",
       "time": "10:00",
@@ -1085,6 +1369,28 @@
       "pill": "SEM VÍDEO",
       "kind": "YouTube privado",
       "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
+    },
+    {
+      "id": "2026-11-26-youtube-short-1200",
+      "date": "2026-11-26",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "É muito fácil apontar a mentira, agora, e julgar a sua própria?",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 26/11 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-11-26-youtube-short-1500",
+      "date": "2026-11-26",
+      "time": "15:00",
+      "platform": "youtube",
+      "title": "Você está sendo falso na sua produção de conteúdo sem perceber…",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 26/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
       "id": "2026-11-26-tiktok-fila-18",
@@ -1153,6 +1459,17 @@
       "note": "Nenhum corte preparado para este dia."
     },
     {
+      "id": "2026-11-27-youtube-short-0800",
+      "date": "2026-11-27",
+      "time": "08:00",
+      "platform": "youtube",
+      "title": "Sem falsa modéstia? Isso aqui é muito bom",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 27/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
       "id": "2026-11-27-youtube-yt",
       "date": "2026-11-27",
       "time": "10:00",
@@ -1162,6 +1479,28 @@
       "pill": "SEM VÍDEO",
       "kind": "YouTube privado",
       "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
+    },
+    {
+      "id": "2026-11-27-youtube-short-1200",
+      "date": "2026-11-27",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Ele errou por “pouco” 🫡",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 27/11 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-11-27-youtube-short-1500",
+      "date": "2026-11-27",
+      "time": "15:00",
+      "platform": "youtube",
+      "title": "Um verdadeiro campeão, não só nos palcos",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 27/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
       "id": "2026-11-27-tiktok-fila-18",
@@ -1208,6 +1547,39 @@
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
+      "id": "2026-11-28-youtube-short-0800",
+      "date": "2026-11-28",
+      "time": "08:00",
+      "platform": "youtube",
+      "title": "Esse é a maior cagada de todas, disparado…",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 28/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-11-28-youtube-short-1200",
+      "date": "2026-11-28",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Mentoria é o melhor tipo de produto que existe para quem quer ROI de",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 28/11 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-11-28-youtube-short-1500",
+      "date": "2026-11-28",
+      "time": "15:00",
+      "platform": "youtube",
+      "title": "Reel de Chris Steimberg",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 28/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos. Atenção: o título é genérico (\"Reel de Chris Steimberg\"); vale trocar no Studio antes do horário."
+    },
+    {
       "id": "2026-11-28-instagram_teste-motion",
       "date": "2026-11-28",
       "time": "21:00",
@@ -1228,6 +1600,39 @@
       "pill": "SEM VÍDEO",
       "kind": "Motion",
       "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
+    },
+    {
+      "id": "2026-11-29-youtube-short-0800",
+      "date": "2026-11-29",
+      "time": "08:00",
+      "platform": "youtube",
+      "title": "Crie o seu próprio movimento, mesmo que ele seja feio",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 29/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-11-29-youtube-short-1200",
+      "date": "2026-11-29",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Nada mais que hoje!",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 29/11 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-11-29-youtube-short-1500",
+      "date": "2026-11-29",
+      "time": "15:00",
+      "platform": "youtube",
+      "title": "Ser especialista ou generalista?",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 29/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
       "id": "2026-11-29-instagram_teste-motion",
@@ -1274,6 +1679,17 @@
       "note": "Nenhum corte preparado para este dia."
     },
     {
+      "id": "2026-11-30-youtube-short-0800",
+      "date": "2026-11-30",
+      "time": "08:00",
+      "platform": "youtube",
+      "title": "Depende do que você vai falar",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 30/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
       "id": "2026-11-30-youtube-yt",
       "date": "2026-11-30",
       "time": "10:00",
@@ -1283,6 +1699,28 @@
       "pill": "SEM VÍDEO",
       "kind": "YouTube privado",
       "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
+    },
+    {
+      "id": "2026-11-30-youtube-short-1200",
+      "date": "2026-11-30",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Reel de Chris Steimberg",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 30/11 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos. Atenção: o título é genérico (\"Reel de Chris Steimberg\"); vale trocar no Studio antes do horário."
+    },
+    {
+      "id": "2026-11-30-youtube-short-1500",
+      "date": "2026-11-30",
+      "time": "15:00",
+      "platform": "youtube",
+      "title": "Faturar alto no curto prazo, não prova nada",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 30/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
       "id": "2026-11-30-tiktok-fila-18",
@@ -1327,6 +1765,556 @@
       "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-12-01-instagram_teste-corte",
+      "date": "2026-12-01",
+      "time": "08:00",
+      "platform": "instagram_teste",
+      "title": "Corte do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Corte",
+      "note": "Nenhum corte preparado para este dia."
+    },
+    {
+      "id": "2026-12-01-tiktok-corte",
+      "date": "2026-12-01",
+      "time": "08:00",
+      "platform": "tiktok",
+      "title": "Corte do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Corte",
+      "note": "Nenhum corte preparado para este dia."
+    },
+    {
+      "id": "2026-12-01-youtube-short-0800",
+      "date": "2026-12-01",
+      "time": "08:00",
+      "platform": "youtube",
+      "title": "O sistema é esse",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 01/12 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-01-youtube-yt",
+      "date": "2026-12-01",
+      "time": "10:00",
+      "platform": "youtube",
+      "title": "Upload privado do corte",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "YouTube privado",
+      "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
+    },
+    {
+      "id": "2026-12-01-youtube-short-1200",
+      "date": "2026-12-01",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Comunicação forte é igual a venda simples",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 01/12 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-01-youtube-short-1500",
+      "date": "2026-12-01",
+      "time": "15:00",
+      "platform": "youtube",
+      "title": "Os mornos não passaram",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 01/12 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-01-tiktok-fila-18",
+      "date": "2026-12-01",
+      "time": "18:00",
+      "platform": "tiktok",
+      "title": "Fila do TikTok · 18h",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
+      "kind": "Fila TikTok",
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-12-01-instagram_teste-motion",
+      "date": "2026-12-01",
+      "time": "21:00",
+      "platform": "instagram_teste",
+      "title": "Motion do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Motion",
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
+    },
+    {
+      "id": "2026-12-01-tiktok-motion",
+      "date": "2026-12-01",
+      "time": "21:00",
+      "platform": "tiktok",
+      "title": "Motion do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Motion",
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
+    },
+    {
+      "id": "2026-12-01-tiktok-fila-22",
+      "date": "2026-12-01",
+      "time": "22:00",
+      "platform": "tiktok",
+      "title": "Fila do TikTok · 22h",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
+      "kind": "Fila TikTok",
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-12-02-instagram_teste-corte",
+      "date": "2026-12-02",
+      "time": "08:00",
+      "platform": "instagram_teste",
+      "title": "Corte do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Corte",
+      "note": "Nenhum corte preparado para este dia."
+    },
+    {
+      "id": "2026-12-02-tiktok-corte",
+      "date": "2026-12-02",
+      "time": "08:00",
+      "platform": "tiktok",
+      "title": "Corte do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Corte",
+      "note": "Nenhum corte preparado para este dia."
+    },
+    {
+      "id": "2026-12-02-youtube-short-0800",
+      "date": "2026-12-02",
+      "time": "08:00",
+      "platform": "youtube",
+      "title": "Os cara fazendo carro voar, e nois aqui…",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 02/12 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-02-youtube-yt",
+      "date": "2026-12-02",
+      "time": "10:00",
+      "platform": "youtube",
+      "title": "Upload privado do corte",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "YouTube privado",
+      "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
+    },
+    {
+      "id": "2026-12-02-youtube-short-1200",
+      "date": "2026-12-02",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Tráfego orgânico ou pago para vender mentorias?",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 02/12 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-02-youtube-short-1500",
+      "date": "2026-12-02",
+      "time": "15:00",
+      "platform": "youtube",
+      "title": "Não terá mais espaço para profissionais assim…",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 02/12 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-02-tiktok-fila-18",
+      "date": "2026-12-02",
+      "time": "18:00",
+      "platform": "tiktok",
+      "title": "Fila do TikTok · 18h",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
+      "kind": "Fila TikTok",
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-12-02-instagram_teste-motion",
+      "date": "2026-12-02",
+      "time": "21:00",
+      "platform": "instagram_teste",
+      "title": "Motion do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Motion",
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
+    },
+    {
+      "id": "2026-12-02-tiktok-motion",
+      "date": "2026-12-02",
+      "time": "21:00",
+      "platform": "tiktok",
+      "title": "Motion do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Motion",
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
+    },
+    {
+      "id": "2026-12-02-tiktok-fila-22",
+      "date": "2026-12-02",
+      "time": "22:00",
+      "platform": "tiktok",
+      "title": "Fila do TikTok · 22h",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
+      "kind": "Fila TikTok",
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-12-03-instagram_teste-corte",
+      "date": "2026-12-03",
+      "time": "08:00",
+      "platform": "instagram_teste",
+      "title": "Corte do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Corte",
+      "note": "Nenhum corte preparado para este dia."
+    },
+    {
+      "id": "2026-12-03-tiktok-corte",
+      "date": "2026-12-03",
+      "time": "08:00",
+      "platform": "tiktok",
+      "title": "Corte do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Corte",
+      "note": "Nenhum corte preparado para este dia."
+    },
+    {
+      "id": "2026-12-03-youtube-short-0800",
+      "date": "2026-12-03",
+      "time": "08:00",
+      "platform": "youtube",
+      "title": "São as migalhas que fazem o pão",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 03/12 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-03-youtube-yt",
+      "date": "2026-12-03",
+      "time": "10:00",
+      "platform": "youtube",
+      "title": "Upload privado do corte",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "YouTube privado",
+      "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
+    },
+    {
+      "id": "2026-12-03-youtube-short-1200",
+      "date": "2026-12-03",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "“Seguidor não importa” é frase de quem não tem seguidor e quer",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 03/12 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-03-youtube-short-1500",
+      "date": "2026-12-03",
+      "time": "15:00",
+      "platform": "youtube",
+      "title": "Manda “ANGULO” nos comentários que te mando o material no Direct",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 03/12 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-03-tiktok-fila-18",
+      "date": "2026-12-03",
+      "time": "18:00",
+      "platform": "tiktok",
+      "title": "Fila do TikTok · 18h",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
+      "kind": "Fila TikTok",
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-12-03-instagram_teste-motion",
+      "date": "2026-12-03",
+      "time": "21:00",
+      "platform": "instagram_teste",
+      "title": "Motion do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Motion",
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
+    },
+    {
+      "id": "2026-12-03-tiktok-motion",
+      "date": "2026-12-03",
+      "time": "21:00",
+      "platform": "tiktok",
+      "title": "Motion do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Motion",
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
+    },
+    {
+      "id": "2026-12-03-tiktok-fila-22",
+      "date": "2026-12-03",
+      "time": "22:00",
+      "platform": "tiktok",
+      "title": "Fila do TikTok · 22h",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
+      "kind": "Fila TikTok",
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-12-04-instagram_teste-corte",
+      "date": "2026-12-04",
+      "time": "08:00",
+      "platform": "instagram_teste",
+      "title": "Corte do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Corte",
+      "note": "Nenhum corte preparado para este dia."
+    },
+    {
+      "id": "2026-12-04-tiktok-corte",
+      "date": "2026-12-04",
+      "time": "08:00",
+      "platform": "tiktok",
+      "title": "Corte do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Corte",
+      "note": "Nenhum corte preparado para este dia."
+    },
+    {
+      "id": "2026-12-04-youtube-short-0800",
+      "date": "2026-12-04",
+      "time": "08:00",
+      "platform": "youtube",
+      "title": "Será que a Dior está falindo…",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 04/12 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-04-youtube-yt",
+      "date": "2026-12-04",
+      "time": "10:00",
+      "platform": "youtube",
+      "title": "Upload privado do corte",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "YouTube privado",
+      "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
+    },
+    {
+      "id": "2026-12-04-youtube-short-1200",
+      "date": "2026-12-04",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Seja interessante!",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 04/12 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-04-youtube-short-1500",
+      "date": "2026-12-04",
+      "time": "15:00",
+      "platform": "youtube",
+      "title": "Não economize para perder o seu bem mais precioso, o tempo",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 04/12 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-04-tiktok-fila-18",
+      "date": "2026-12-04",
+      "time": "18:00",
+      "platform": "tiktok",
+      "title": "Fila do TikTok · 18h",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
+      "kind": "Fila TikTok",
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-12-04-instagram_teste-motion",
+      "date": "2026-12-04",
+      "time": "21:00",
+      "platform": "instagram_teste",
+      "title": "Motion do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Motion",
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
+    },
+    {
+      "id": "2026-12-04-tiktok-motion",
+      "date": "2026-12-04",
+      "time": "21:00",
+      "platform": "tiktok",
+      "title": "Motion do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Motion",
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
+    },
+    {
+      "id": "2026-12-04-tiktok-fila-22",
+      "date": "2026-12-04",
+      "time": "22:00",
+      "platform": "tiktok",
+      "title": "Fila do TikTok · 22h",
+      "status": "rotina",
+      "pill": "PREVISTO (ROTINA)",
+      "kind": "Fila TikTok",
+      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-12-05-youtube-short-0800",
+      "date": "2026-12-05",
+      "time": "08:00",
+      "platform": "youtube",
+      "title": "Se colocar desafios…",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 05/12 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-05-youtube-short-1200",
+      "date": "2026-12-05",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Seguir regras de desconhecidos, é levar o seu negócio a um lugar",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 05/12 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-05-youtube-short-1500",
+      "date": "2026-12-05",
+      "time": "15:00",
+      "platform": "youtube",
+      "title": "Cuida da sua cabeça",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 05/12 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-05-instagram_teste-motion",
+      "date": "2026-12-05",
+      "time": "21:00",
+      "platform": "instagram_teste",
+      "title": "Motion do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Motion",
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
+    },
+    {
+      "id": "2026-12-05-tiktok-motion",
+      "date": "2026-12-05",
+      "time": "21:00",
+      "platform": "tiktok",
+      "title": "Motion do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Motion",
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
+    },
+    {
+      "id": "2026-12-06-youtube-short-0800",
+      "date": "2026-12-06",
+      "time": "08:00",
+      "platform": "youtube",
+      "title": "Só é difícil pq o conteúdo é ruim",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 06/12 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-06-youtube-short-1200",
+      "date": "2026-12-06",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Sem demonstração de competência, a venda demora para vir",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 06/12 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-06-youtube-short-1500",
+      "date": "2026-12-06",
+      "time": "15:00",
+      "platform": "youtube",
+      "title": "Posicionamento na prática…",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short agendado",
+      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 06/12 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-06-instagram_teste-motion",
+      "date": "2026-12-06",
+      "time": "21:00",
+      "platform": "instagram_teste",
+      "title": "Motion do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Motion",
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
+    },
+    {
+      "id": "2026-12-06-tiktok-motion",
+      "date": "2026-12-06",
+      "time": "21:00",
+      "platform": "tiktok",
+      "title": "Motion do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Motion",
+      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     }
   ]
 }
