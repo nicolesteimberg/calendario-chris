@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "16/11/2026, 16h15 (BRT, America/São Paulo)",
+  "updated": "16/11/2026, 16h35 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -312,17 +312,6 @@
       "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
-      "id": "2026-11-16-youtube-yt-block",
-      "date": "2026-11-16",
-      "time": "10:00",
-      "platform": "youtube",
-      "title": "O seu conteúdo é mais do mesmo e esse é o motivo",
-      "status": "bloqueado",
-      "pill": "BLOQUEADO",
-      "kind": "YouTube privado",
-      "note": "Não foi enviado: a conexão automática com o YouTube expirou em 16/11 às 12h35. O corte está pronto; nenhum upload foi feito. Não é falha de post: o Chris publica no YouTube pelo Studio."
-    },
-    {
       "id": "2026-11-16-tiktok-corte",
       "date": "2026-11-16",
       "time": "12:31",
@@ -403,6 +392,17 @@
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
+      "id": "2026-11-16-youtube-corte",
+      "date": "2026-11-16",
+      "time": "18:00",
+      "platform": "youtube",
+      "title": "O seu conteúdo é mais do mesmo e esse é o motivo",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Corte Trabalhado",
+      "note": "Short agendado no YouTube: fica público sozinho em 16/11 às 18h00. Título e descrição aprovados, idioma pt-BR."
+    },
+    {
       "id": "2026-11-16-tiktok-narrativa-b",
       "date": "2026-11-16",
       "time": "19:30",
@@ -480,17 +480,6 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 17/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos. É o corte de 11/11, que tinha subido privado e não foi ao ar."
     },
     {
-      "id": "2026-11-17-youtube-yt-block",
-      "date": "2026-11-17",
-      "time": "10:00",
-      "platform": "youtube",
-      "title": "Qualificar audiência ou buscar alcance? Depende do momento",
-      "status": "bloqueado",
-      "pill": "BLOQUEADO",
-      "kind": "YouTube privado",
-      "note": "Não foi enviado: a conexão automática com o YouTube expirou em 16/11 às 12h35. O corte está pronto; nenhum upload foi feito. Não é falha de post: o Chris publica no YouTube pelo Studio."
-    },
-    {
       "id": "2026-11-17-youtube-short-1200",
       "date": "2026-11-17",
       "time": "12:00",
@@ -522,6 +511,17 @@
       "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-11-17-youtube-corte",
+      "date": "2026-11-17",
+      "time": "18:00",
+      "platform": "youtube",
+      "title": "Qualificar audiência ou buscar alcance? Depende do momento",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Corte Cru",
+      "note": "Short agendado no YouTube: fica público sozinho em 17/11 às 18h00. Título e descrição aprovados, idioma pt-BR."
     },
     {
       "id": "2026-11-17-instagram_teste-motion",
@@ -590,17 +590,6 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 18/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
-      "id": "2026-11-18-youtube-yt-block",
-      "date": "2026-11-18",
-      "time": "10:00",
-      "platform": "youtube",
-      "title": "Como aumentar o valor percebido da sua oferta",
-      "status": "bloqueado",
-      "pill": "BLOQUEADO",
-      "kind": "YouTube privado",
-      "note": "Não foi enviado: a conexão automática com o YouTube expirou em 16/11 às 12h35. O corte está pronto; nenhum upload foi feito. Não é falha de post: o Chris publica no YouTube pelo Studio."
-    },
-    {
       "id": "2026-11-18-youtube-short-1200",
       "date": "2026-11-18",
       "time": "12:00",
@@ -632,6 +621,17 @@
       "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-11-18-youtube-corte",
+      "date": "2026-11-18",
+      "time": "18:00",
+      "platform": "youtube",
+      "title": "Como aumentar o valor percebido da sua oferta",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Corte Trabalhado",
+      "note": "Short agendado no YouTube: fica público sozinho em 18/11 às 18h00. Título e descrição aprovados, idioma pt-BR."
     },
     {
       "id": "2026-11-18-instagram_teste-motion",
@@ -700,17 +700,6 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 19/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
-      "id": "2026-11-19-youtube-yt-block",
-      "date": "2026-11-19",
-      "time": "10:00",
-      "platform": "youtube",
-      "title": "Criar conteúdo: o quão relevante é a sua vida?",
-      "status": "bloqueado",
-      "pill": "BLOQUEADO",
-      "kind": "YouTube privado",
-      "note": "Não foi enviado: a conexão automática com o YouTube expirou em 16/11 às 12h35. O corte está pronto; nenhum upload foi feito. Não é falha de post: o Chris publica no YouTube pelo Studio."
-    },
-    {
       "id": "2026-11-19-youtube-short-1200",
       "date": "2026-11-19",
       "time": "12:00",
@@ -742,6 +731,17 @@
       "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-11-19-youtube-corte",
+      "date": "2026-11-19",
+      "time": "18:00",
+      "platform": "youtube",
+      "title": "Criar conteúdo: o quão relevante é a sua vida?",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Corte Cru",
+      "note": "Short agendado no YouTube: fica público sozinho em 19/11 às 18h00. Título e descrição aprovados, idioma pt-BR."
     },
     {
       "id": "2026-11-19-instagram_teste-motion",
@@ -810,17 +810,6 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 20/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
-      "id": "2026-11-20-youtube-yt-block",
-      "date": "2026-11-20",
-      "time": "10:00",
-      "platform": "youtube",
-      "title": "Produzir conteúdo: familiaridade e esforço definem as views",
-      "status": "bloqueado",
-      "pill": "BLOQUEADO",
-      "kind": "YouTube privado",
-      "note": "Não foi enviado: a conexão automática com o YouTube expirou em 16/11 às 12h35. O corte está pronto; nenhum upload foi feito. Não é falha de post: o Chris publica no YouTube pelo Studio."
-    },
-    {
       "id": "2026-11-20-youtube-short-1200",
       "date": "2026-11-20",
       "time": "12:00",
@@ -852,6 +841,17 @@
       "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-11-20-youtube-corte",
+      "date": "2026-11-20",
+      "time": "18:00",
+      "platform": "youtube",
+      "title": "Produzir conteúdo: familiaridade e esforço definem as views",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Corte Trabalhado",
+      "note": "Short agendado no YouTube: fica público sozinho em 20/11 às 18h00. Título e descrição aprovados, idioma pt-BR."
     },
     {
       "id": "2026-11-20-instagram_teste-motion",
@@ -1030,17 +1030,6 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 23/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
-      "id": "2026-11-23-youtube-yt",
-      "date": "2026-11-23",
-      "time": "10:00",
-      "platform": "youtube",
-      "title": "Upload privado do corte",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "YouTube privado",
-      "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
-    },
-    {
       "id": "2026-11-23-youtube-short-1200",
       "date": "2026-11-23",
       "time": "12:00",
@@ -1072,6 +1061,17 @@
       "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-11-23-youtube-yt",
+      "date": "2026-11-23",
+      "time": "18:00",
+      "platform": "youtube",
+      "title": "Corte do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Corte",
+      "note": "Nenhum corte preparado para este dia. Os cortes vão ao YouTube agendados para as 18h."
     },
     {
       "id": "2026-11-23-instagram_teste-motion",
@@ -1140,17 +1140,6 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 24/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
-      "id": "2026-11-24-youtube-yt",
-      "date": "2026-11-24",
-      "time": "10:00",
-      "platform": "youtube",
-      "title": "Upload privado do corte",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "YouTube privado",
-      "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
-    },
-    {
       "id": "2026-11-24-youtube-short-1200",
       "date": "2026-11-24",
       "time": "12:00",
@@ -1182,6 +1171,17 @@
       "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-11-24-youtube-yt",
+      "date": "2026-11-24",
+      "time": "18:00",
+      "platform": "youtube",
+      "title": "Corte do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Corte",
+      "note": "Nenhum corte preparado para este dia. Os cortes vão ao YouTube agendados para as 18h."
     },
     {
       "id": "2026-11-24-instagram_teste-motion",
@@ -1250,17 +1250,6 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 25/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
-      "id": "2026-11-25-youtube-yt",
-      "date": "2026-11-25",
-      "time": "10:00",
-      "platform": "youtube",
-      "title": "Upload privado do corte",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "YouTube privado",
-      "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
-    },
-    {
       "id": "2026-11-25-youtube-short-1200",
       "date": "2026-11-25",
       "time": "12:00",
@@ -1292,6 +1281,17 @@
       "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-11-25-youtube-yt",
+      "date": "2026-11-25",
+      "time": "18:00",
+      "platform": "youtube",
+      "title": "Corte do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Corte",
+      "note": "Nenhum corte preparado para este dia. Os cortes vão ao YouTube agendados para as 18h."
     },
     {
       "id": "2026-11-25-instagram_teste-motion",
@@ -1360,17 +1360,6 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 26/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
-      "id": "2026-11-26-youtube-yt",
-      "date": "2026-11-26",
-      "time": "10:00",
-      "platform": "youtube",
-      "title": "Upload privado do corte",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "YouTube privado",
-      "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
-    },
-    {
       "id": "2026-11-26-youtube-short-1200",
       "date": "2026-11-26",
       "time": "12:00",
@@ -1402,6 +1391,17 @@
       "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-11-26-youtube-yt",
+      "date": "2026-11-26",
+      "time": "18:00",
+      "platform": "youtube",
+      "title": "Corte do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Corte",
+      "note": "Nenhum corte preparado para este dia. Os cortes vão ao YouTube agendados para as 18h."
     },
     {
       "id": "2026-11-26-instagram_teste-motion",
@@ -1470,17 +1470,6 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 27/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
-      "id": "2026-11-27-youtube-yt",
-      "date": "2026-11-27",
-      "time": "10:00",
-      "platform": "youtube",
-      "title": "Upload privado do corte",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "YouTube privado",
-      "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
-    },
-    {
       "id": "2026-11-27-youtube-short-1200",
       "date": "2026-11-27",
       "time": "12:00",
@@ -1512,6 +1501,17 @@
       "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-11-27-youtube-yt",
+      "date": "2026-11-27",
+      "time": "18:00",
+      "platform": "youtube",
+      "title": "Corte do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Corte",
+      "note": "Nenhum corte preparado para este dia. Os cortes vão ao YouTube agendados para as 18h."
     },
     {
       "id": "2026-11-27-instagram_teste-motion",
@@ -1690,17 +1690,6 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 30/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
-      "id": "2026-11-30-youtube-yt",
-      "date": "2026-11-30",
-      "time": "10:00",
-      "platform": "youtube",
-      "title": "Upload privado do corte",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "YouTube privado",
-      "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
-    },
-    {
       "id": "2026-11-30-youtube-short-1200",
       "date": "2026-11-30",
       "time": "12:00",
@@ -1732,6 +1721,17 @@
       "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-11-30-youtube-yt",
+      "date": "2026-11-30",
+      "time": "18:00",
+      "platform": "youtube",
+      "title": "Corte do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Corte",
+      "note": "Nenhum corte preparado para este dia. Os cortes vão ao YouTube agendados para as 18h."
     },
     {
       "id": "2026-11-30-instagram_teste-motion",
@@ -1800,17 +1800,6 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 01/12 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
-      "id": "2026-12-01-youtube-yt",
-      "date": "2026-12-01",
-      "time": "10:00",
-      "platform": "youtube",
-      "title": "Upload privado do corte",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "YouTube privado",
-      "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
-    },
-    {
       "id": "2026-12-01-youtube-short-1200",
       "date": "2026-12-01",
       "time": "12:00",
@@ -1842,6 +1831,17 @@
       "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-12-01-youtube-yt",
+      "date": "2026-12-01",
+      "time": "18:00",
+      "platform": "youtube",
+      "title": "Corte do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Corte",
+      "note": "Nenhum corte preparado para este dia. Os cortes vão ao YouTube agendados para as 18h."
     },
     {
       "id": "2026-12-01-instagram_teste-motion",
@@ -1910,17 +1910,6 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 02/12 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
-      "id": "2026-12-02-youtube-yt",
-      "date": "2026-12-02",
-      "time": "10:00",
-      "platform": "youtube",
-      "title": "Upload privado do corte",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "YouTube privado",
-      "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
-    },
-    {
       "id": "2026-12-02-youtube-short-1200",
       "date": "2026-12-02",
       "time": "12:00",
@@ -1952,6 +1941,17 @@
       "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-12-02-youtube-yt",
+      "date": "2026-12-02",
+      "time": "18:00",
+      "platform": "youtube",
+      "title": "Corte do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Corte",
+      "note": "Nenhum corte preparado para este dia. Os cortes vão ao YouTube agendados para as 18h."
     },
     {
       "id": "2026-12-02-instagram_teste-motion",
@@ -2020,17 +2020,6 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 03/12 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
-      "id": "2026-12-03-youtube-yt",
-      "date": "2026-12-03",
-      "time": "10:00",
-      "platform": "youtube",
-      "title": "Upload privado do corte",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "YouTube privado",
-      "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
-    },
-    {
       "id": "2026-12-03-youtube-short-1200",
       "date": "2026-12-03",
       "time": "12:00",
@@ -2062,6 +2051,17 @@
       "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-12-03-youtube-yt",
+      "date": "2026-12-03",
+      "time": "18:00",
+      "platform": "youtube",
+      "title": "Corte do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Corte",
+      "note": "Nenhum corte preparado para este dia. Os cortes vão ao YouTube agendados para as 18h."
     },
     {
       "id": "2026-12-03-instagram_teste-motion",
@@ -2130,17 +2130,6 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 04/12 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
-      "id": "2026-12-04-youtube-yt",
-      "date": "2026-12-04",
-      "time": "10:00",
-      "platform": "youtube",
-      "title": "Upload privado do corte",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "YouTube privado",
-      "note": "Nenhum corte preparado. A publicação no YouTube ainda precisa ser reconectada."
-    },
-    {
       "id": "2026-12-04-youtube-short-1200",
       "date": "2026-12-04",
       "time": "12:00",
@@ -2172,6 +2161,17 @@
       "pill": "PREVISTO (ROTINA)",
       "kind": "Fila TikTok",
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+    },
+    {
+      "id": "2026-12-04-youtube-yt",
+      "date": "2026-12-04",
+      "time": "18:00",
+      "platform": "youtube",
+      "title": "Corte do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Corte",
+      "note": "Nenhum corte preparado para este dia. Os cortes vão ao YouTube agendados para as 18h."
     },
     {
       "id": "2026-12-04-instagram_teste-motion",

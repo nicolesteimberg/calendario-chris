@@ -181,8 +181,8 @@
     if (status === "publicado") return "#3D451C";
     if (status === "falhou") return "#B00020";
     if (status === "bloqueado" || status === "atencao") return "#4A4A4A";
-    if (status === "vazio") return "#6B6B6B";
-    return "#846339";
+    if (status === "vazio") return "#4A4A4A";
+    return "#623700";
   }
   function statusMark(status, size, light) {
     const s = size || 13;
@@ -403,7 +403,7 @@
     const vazio = post.status === "vazio" || post.status === "rotina" || post.status === "bloqueado" || post.status === "atencao";
     const btn = el("button", {
       type: "button",
-      class: "event " + post.platform + (compact ? " compact" : " wide") + (state.selected === post.id ? " selected" : "") + (vazio ? " vazio ev-" + post.status : ""),
+      class: "event " + post.platform + (compact ? " compact" : " wide") + (state.selected === post.id ? " selected" : "") + " ev-" + post.status + (vazio ? " vazio" : " solid"),
       title: PLATFORM_LABEL[post.platform] + " · " + statusWord(post.status) + " · " + post.time + " · " + post.title,
       style: {
         top: top + "px",
