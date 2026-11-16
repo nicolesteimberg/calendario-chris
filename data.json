@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "16/11/2026, 18h21 (BRT, America/São Paulo)",
+  "updated": "16/11/2026, 19h47 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -338,13 +338,14 @@
     {
       "id": "2026-11-16-instagram_reel-reel-longo",
       "date": "2026-11-16",
-      "time": "12:34",
+      "time": "15:07",
       "platform": "instagram_reel",
       "title": "Por que seus vídeos não viralizam (e a ciência por trás disso)",
-      "status": "falhou",
-      "pill": "FALHOU",
+      "status": "publicado",
+      "pill": "PUBLICADO",
       "kind": "Reel longo",
-      "note": "Falhou — não está no ar. O Instagram não conseguiu processar o vídeo: 3 tentativas pela API (12h34, 12h39 e 12h53), todas recusadas. Vídeo e legenda prontos; o caminho é postar pelo app."
+      "link": "https://www.instagram.com/reel/Dfz8wlwNsiJ/",
+      "note": "Postado manualmente no feed às 15h07. As 3 tentativas pela API (12h34, 12h39 e 12h53) tinham falhado. Conferido ao vivo no Zernio."
     },
     {
       "id": "2026-11-16-tiktok-narrativa-a",
