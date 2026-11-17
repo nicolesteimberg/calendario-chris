@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "16/11/2026, 22h14 (BRT, America/São Paulo)",
+  "updated": "17/11/2026, 08h06 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -449,28 +449,6 @@
       "link": "https://www.tiktok.com/@chrissteimberg/video/7708942085721769991"
     },
     {
-      "id": "2026-11-17-instagram_teste-corte",
-      "date": "2026-11-17",
-      "time": "08:00",
-      "platform": "instagram_teste",
-      "title": "Qualificar audiência ou buscar alcance? Depende do momento",
-      "status": "agendado",
-      "pill": "AGENDADO",
-      "kind": "Corte Cru",
-      "note": "Agendado para 08h00 (BRT). Trial reel, legenda vazia, graduação manual."
-    },
-    {
-      "id": "2026-11-17-tiktok-corte",
-      "date": "2026-11-17",
-      "time": "08:00",
-      "platform": "tiktok",
-      "title": "Qualificar audiência ou buscar alcance? Depende do momento",
-      "status": "agendado",
-      "pill": "AGENDADO",
-      "kind": "Corte Cru",
-      "note": "Agendado para 08h00 (BRT)."
-    },
-    {
       "id": "2026-11-17-youtube-short-0800",
       "date": "2026-11-17",
       "time": "08:00",
@@ -480,6 +458,28 @@
       "pill": "AGENDADO",
       "kind": "Short agendado",
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 17/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos. É o corte de 11/11, que tinha subido privado e não foi ao ar."
+    },
+    {
+      "id": "2026-11-17-tiktok-corte",
+      "date": "2026-11-17",
+      "time": "08:03",
+      "platform": "tiktok",
+      "title": "Qualificar audiência ou buscar alcance? Depende do momento",
+      "status": "publicado",
+      "pill": "PUBLICADO",
+      "kind": "Corte Cru",
+      "link": "https://www.tiktok.com/@chrissteimberg/video/7709094283646717205"
+    },
+    {
+      "id": "2026-11-17-instagram_teste-corte",
+      "date": "2026-11-17",
+      "time": "08:05",
+      "platform": "instagram_teste",
+      "title": "Qualificar audiência ou buscar alcance? Depende do momento",
+      "status": "publicado",
+      "pill": "PUBLICADO",
+      "kind": "Corte Cru",
+      "note": "Trial reel, legenda vazia, graduação manual."
     },
     {
       "id": "2026-11-17-youtube-short-1200",
