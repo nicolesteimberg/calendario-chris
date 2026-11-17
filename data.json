@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "17/11/2026, 08h06 (BRT, America/São Paulo)",
+  "updated": "17/11/2026, 08h12 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -362,24 +362,14 @@
     {
       "id": "2026-11-16-instagram_reel-narrativa-a",
       "date": "2026-11-16",
-      "time": "16:58",
+      "time": "17:00",
       "platform": "instagram_reel",
       "title": "Narrativa A · Às vezes, uma boa ideia muda tudo. 🏎️",
       "status": "publicado",
       "pill": "PUBLICADO",
       "kind": "Narrativa",
+      "link": "https://www.instagram.com/reel/Df0KW3cjgQx/",
       "note": "Reel normal no feed. Legenda curta com hashtags."
-    },
-    {
-      "id": "2026-11-16-instagram_teste-narrativa-b",
-      "date": "2026-11-16",
-      "time": "18:00",
-      "platform": "instagram_teste",
-      "title": "Narrativa B · Às vezes, uma boa ideia muda tudo. 🏎️",
-      "status": "publicado",
-      "pill": "PUBLICADO",
-      "kind": "Narrativa",
-      "note": "Reel teste (trial), graduação manual. Legenda curta com hashtags."
     },
     {
       "id": "2026-11-16-youtube-corte",
@@ -402,17 +392,30 @@
       "status": "publicado",
       "pill": "PUBLICADO",
       "kind": "Fila TikTok",
-      "note": "Publicado na fila do TikTok. A URL pública não ficou gravada."
+      "link": "https://www.tiktok.com/@chrissteimberg/video/7708880122786385160"
+    },
+    {
+      "id": "2026-11-16-instagram_teste-narrativa-b",
+      "date": "2026-11-16",
+      "time": "18:20",
+      "platform": "instagram_teste",
+      "title": "Narrativa B · Às vezes, uma boa ideia muda tudo. 🏎️",
+      "status": "publicado",
+      "pill": "PUBLICADO",
+      "kind": "Narrativa",
+      "link": "https://www.instagram.com/reel/Df0TdXnBD1o/",
+      "note": "Reel teste (trial), graduação manual. Legenda curta com hashtags."
     },
     {
       "id": "2026-11-16-tiktok-narrativa-b",
       "date": "2026-11-16",
-      "time": "19:30",
+      "time": "19:31",
       "platform": "tiktok",
       "title": "Narrativa B · Às vezes, uma boa ideia muda tudo. 🏎️",
-      "status": "agendado",
-      "pill": "AGENDADO",
+      "status": "publicado",
+      "pill": "PUBLICADO",
       "kind": "Narrativa",
+      "link": "https://www.tiktok.com/@chrissteimberg/video/7708900518801902869",
       "note": "Legenda curta com hashtags."
     },
     {
@@ -438,15 +441,15 @@
       "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
-      "id": "2026-11-16-tiktok-fila-22:14",
+      "id": "2026-11-16-tiktok-fila-22:13",
       "date": "2026-11-16",
-      "time": "22:14",
+      "time": "22:13",
       "platform": "tiktok",
       "title": "Depende do que você vai falar",
       "status": "publicado",
       "pill": "PUBLICADO",
       "kind": "Fila TikTok",
-      "link": "https://www.tiktok.com/@chrissteimberg/video/7708942085721769991"
+      "link": "https://www.tiktok.com/@chrissteimberg/video/7708942442724134164"
     },
     {
       "id": "2026-11-17-youtube-short-0800",
