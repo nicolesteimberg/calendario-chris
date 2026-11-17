@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "17/11/2026, 18h11 (BRT, America/São Paulo)",
+  "updated": "17/11/2026, 18h32 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -533,22 +533,22 @@
       "date": "2026-11-17",
       "time": "21:00",
       "platform": "instagram_teste",
-      "title": "Motion do dia",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
+      "title": "Por que perfis pequenos vendem mais que perfis grandes?",
+      "status": "agendado",
+      "pill": "AGENDADO",
       "kind": "Motion",
-      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. Se chegar áudio, sai às 21h como reel teste, sem legenda. Não conta como previsto."
+      "note": "Reel de teste, sem legenda. Sai às 21h."
     },
     {
       "id": "2026-11-17-tiktok-motion",
       "date": "2026-11-17",
       "time": "21:00",
       "platform": "tiktok",
-      "title": "Motion do dia",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
+      "title": "Por que perfis pequenos vendem mais que perfis grandes?",
+      "status": "agendado",
+      "pill": "AGENDADO",
       "kind": "Motion",
-      "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
+      "note": "Motion pronto, sai às 21h."
     },
     {
       "id": "2026-11-17-tiktok-fila-22",
