@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "16/11/2026, 19h47 (BRT, America/São Paulo)",
+  "updated": "16/11/2026, 22h14 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -438,15 +438,15 @@
       "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
-      "id": "2026-11-16-tiktok-fila-22",
+      "id": "2026-11-16-tiktok-fila-22:14",
       "date": "2026-11-16",
-      "time": "22:00",
+      "time": "22:14",
       "platform": "tiktok",
-      "title": "Fila do TikTok · 22h",
-      "status": "rotina",
-      "pill": "PREVISTO (ROTINA)",
+      "title": "Depende do que você vai falar",
+      "status": "publicado",
+      "pill": "PUBLICADO",
       "kind": "Fila TikTok",
-      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio. Até 13/11 a fila saía por volta das 12h20 e das 18h20; a partir de 16/11 os horários previstos são 18h e 22h."
+      "link": "https://www.tiktok.com/@chrissteimberg/video/7708942085721769991"
     },
     {
       "id": "2026-11-17-instagram_teste-corte",
