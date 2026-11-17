@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "17/11/2026, 08h12 (BRT, America/São Paulo)",
+  "updated": "17/11/2026, 18h11 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -507,17 +507,6 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 17/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
-      "id": "2026-11-17-tiktok-fila-18",
-      "date": "2026-11-17",
-      "time": "18:00",
-      "platform": "tiktok",
-      "title": "Fila do TikTok · 18h",
-      "status": "rotina",
-      "pill": "PREVISTO (ROTINA)",
-      "kind": "Fila TikTok",
-      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
-    },
-    {
       "id": "2026-11-17-youtube-corte",
       "date": "2026-11-17",
       "time": "18:00",
@@ -527,6 +516,17 @@
       "pill": "AGENDADO",
       "kind": "Corte Cru",
       "note": "Short agendado no YouTube: fica público sozinho em 17/11 às 18h00. Título e descrição aprovados, idioma pt-BR."
+    },
+    {
+      "id": "2026-11-17-tiktok-fila-18:09",
+      "date": "2026-11-17",
+      "time": "18:09",
+      "platform": "tiktok",
+      "title": "Um mentor precisa mais escutar do que falar",
+      "status": "publicado",
+      "pill": "PUBLICADO",
+      "kind": "Fila TikTok",
+      "link": "https://www.tiktok.com/@chrissteimberg/video/7709250640672722196"
     },
     {
       "id": "2026-11-17-instagram_teste-motion",
