@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "17/11/2026, 18h32 (BRT, America/São Paulo)",
+  "updated": "17/11/2026, 21h36 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -533,22 +533,23 @@
       "date": "2026-11-17",
       "time": "21:00",
       "platform": "instagram_teste",
-      "title": "Por que perfis pequenos vendem mais que perfis grandes?",
-      "status": "agendado",
-      "pill": "AGENDADO",
+      "title": "Por que perfis pequenos vendem mais que perfis grandes? Perfil grande dilui a comunicação para alcançar mais gente e perde objetividade. Perfil pequeno fala de um problema específico e resolve esse problema: atrai menos pessoas, mas quem está ali prefere comprar. O faturamento nem sempre acompanha os números visíveis.",
+      "status": "publicado",
+      "pill": "PUBLICADO",
       "kind": "Motion",
-      "note": "Reel de teste, sem legenda. Sai às 21h."
+      "link": "https://www.instagram.com/reel/Df3Ol3_HMl1/",
+      "note": "Trial reel, legenda vazia, graduação manual."
     },
     {
       "id": "2026-11-17-tiktok-motion",
       "date": "2026-11-17",
       "time": "21:00",
       "platform": "tiktok",
-      "title": "Por que perfis pequenos vendem mais que perfis grandes?",
-      "status": "agendado",
-      "pill": "AGENDADO",
+      "title": "Por que perfis pequenos vendem mais que perfis grandes? Perfil grande dilui a comunicação para alcançar mais gente e perde objetividade. Perfil pequeno fala de um problema específico e resolve esse problema: atrai menos pessoas, mas quem está ali prefere comprar. O faturamento nem sempre acompanha os números visíveis.",
+      "status": "publicado",
+      "pill": "PUBLICADO",
       "kind": "Motion",
-      "note": "Motion pronto, sai às 21h."
+      "link": "https://www.tiktok.com/@chrissteimberg/video/7709297862256905493"
     },
     {
       "id": "2026-11-17-tiktok-fila-22",
