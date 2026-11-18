@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "17/11/2026, 22h15 (BRT, America/São Paulo)",
+  "updated": "18/11/2026, 08h08 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -563,28 +563,6 @@
       "link": "https://www.tiktok.com/@chrissteimberg/video/7709313699734998292"
     },
     {
-      "id": "2026-11-18-instagram_teste-corte",
-      "date": "2026-11-18",
-      "time": "08:00",
-      "platform": "instagram_teste",
-      "title": "Como aumentar o valor percebido da sua oferta",
-      "status": "agendado",
-      "pill": "AGENDADO",
-      "kind": "Corte Trabalhado",
-      "note": "Agendado para 08h00 (BRT). Trial reel, legenda vazia, graduação manual."
-    },
-    {
-      "id": "2026-11-18-tiktok-corte",
-      "date": "2026-11-18",
-      "time": "08:00",
-      "platform": "tiktok",
-      "title": "Como aumentar o valor percebido da sua oferta",
-      "status": "agendado",
-      "pill": "AGENDADO",
-      "kind": "Corte Trabalhado",
-      "note": "Agendado para 08h00 (BRT)."
-    },
-    {
       "id": "2026-11-18-youtube-short-0800",
       "date": "2026-11-18",
       "time": "08:00",
@@ -594,6 +572,28 @@
       "pill": "AGENDADO",
       "kind": "Short agendado",
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 18/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-11-18-tiktok-corte",
+      "date": "2026-11-18",
+      "time": "08:02",
+      "platform": "tiktok",
+      "title": "Como aumentar o valor percebido da sua oferta",
+      "status": "publicado",
+      "pill": "PUBLICADO",
+      "kind": "Corte Trabalhado",
+      "link": "https://www.tiktok.com/@chrissteimberg/video/7709464351001873665"
+    },
+    {
+      "id": "2026-11-18-instagram_teste-corte",
+      "date": "2026-11-18",
+      "time": "08:05",
+      "platform": "instagram_teste",
+      "title": "Como aumentar o valor percebido da sua oferta",
+      "status": "publicado",
+      "pill": "PUBLICADO",
+      "kind": "Corte Trabalhado",
+      "note": "Trial reel, legenda vazia, graduação manual."
     },
     {
       "id": "2026-11-18-youtube-short-1200",
