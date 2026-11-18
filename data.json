@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "18/11/2026, 08h08 (BRT, America/São Paulo)",
+  "updated": "18/11/2026, 08h14 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -457,10 +457,11 @@
       "time": "08:00",
       "platform": "youtube",
       "title": "Fazer tudo ao mesmo tempo está travando o seu conteúdo",
-      "status": "agendado",
-      "pill": "AGENDADO",
-      "kind": "Short agendado",
-      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 17/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos. É o corte de 11/11, que tinha subido privado e não foi ao ar."
+      "status": "publicado",
+      "pill": "PUBLICADO",
+      "kind": "Short",
+      "link": "https://www.youtube.com/shorts/9J0mBFTfb8A",
+      "note": "Ficou público às 08h00. Conferido ao vivo no YouTube. É o corte de 11/11, que tinha subido privado e não foi ao ar."
     },
     {
       "id": "2026-11-17-tiktok-corte",
@@ -490,10 +491,11 @@
       "time": "12:00",
       "platform": "youtube",
       "title": "Mentoria ou consultoria: como cobrar mais caro com acesso ao especialista",
-      "status": "agendado",
-      "pill": "AGENDADO",
-      "kind": "Short agendado",
-      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 17/11 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos. É o corte de 12/11, que tinha subido privado e não foi ao ar."
+      "status": "publicado",
+      "pill": "PUBLICADO",
+      "kind": "Short",
+      "link": "https://www.youtube.com/shorts/YG-Wq1V9GNo",
+      "note": "Ficou público às 12h00. Conferido ao vivo no YouTube. É o corte de 12/11, que tinha subido privado e não foi ao ar."
     },
     {
       "id": "2026-11-17-youtube-short-1500",
@@ -501,10 +503,11 @@
       "time": "15:00",
       "platform": "youtube",
       "title": "Antes de comunicar, tenha essas 2 coisas definidas",
-      "status": "agendado",
-      "pill": "AGENDADO",
-      "kind": "Short agendado",
-      "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 17/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+      "status": "publicado",
+      "pill": "PUBLICADO",
+      "kind": "Short",
+      "link": "https://www.youtube.com/shorts/4d8UUMn7PVY",
+      "note": "Ficou público às 15h00. Conferido ao vivo no YouTube."
     },
     {
       "id": "2026-11-17-youtube-corte",
@@ -512,10 +515,11 @@
       "time": "18:00",
       "platform": "youtube",
       "title": "Qualificar audiência ou buscar alcance? Depende do momento",
-      "status": "agendado",
-      "pill": "AGENDADO",
+      "status": "publicado",
+      "pill": "PUBLICADO",
       "kind": "Corte Cru",
-      "note": "Short agendado no YouTube: fica público sozinho em 17/11 às 18h00. Título e descrição aprovados, idioma pt-BR."
+      "link": "https://www.youtube.com/shorts/5m2Uyiz1lkY",
+      "note": "Ficou público às 18h00. Conferido ao vivo no YouTube."
     },
     {
       "id": "2026-11-17-tiktok-fila-18:09",
