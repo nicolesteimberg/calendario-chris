@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "17/11/2026, 21h36 (BRT, America/São Paulo)",
+  "updated": "17/11/2026, 22h15 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -552,15 +552,15 @@
       "link": "https://www.tiktok.com/@chrissteimberg/video/7709297862256905493"
     },
     {
-      "id": "2026-11-17-tiktok-fila-22",
+      "id": "2026-11-17-tiktok-fila-22:14",
       "date": "2026-11-17",
-      "time": "22:00",
+      "time": "22:14",
       "platform": "tiktok",
-      "title": "Fila do TikTok · 22h",
-      "status": "rotina",
-      "pill": "PREVISTO (ROTINA)",
+      "title": "Faturar alto no curto prazo, não prova nada",
+      "status": "publicado",
+      "pill": "PUBLICADO",
       "kind": "Fila TikTok",
-      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+      "link": "https://www.tiktok.com/@chrissteimberg/video/7709313699734998292"
     },
     {
       "id": "2026-11-18-instagram_teste-corte",
