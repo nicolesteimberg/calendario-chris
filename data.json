@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "18/11/2026, 18h13 (BRT, America/São Paulo)",
+  "updated": "20/11/2026, 18h15 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -671,10 +671,10 @@
       "time": "22:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 22h",
-      "status": "rotina",
-      "pill": "PREVISTO (ROTINA)",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
       "kind": "Fila TikTok",
-      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+      "note": "Nada saiu neste horário da fila do TikTok."
     },
     {
       "id": "2026-11-19-instagram_teste-corte",
@@ -737,10 +737,10 @@
       "time": "18:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 18h",
-      "status": "rotina",
-      "pill": "PREVISTO (ROTINA)",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
       "kind": "Fila TikTok",
-      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+      "note": "Nada saiu neste horário da fila do TikTok."
     },
     {
       "id": "2026-11-19-youtube-corte",
@@ -781,10 +781,10 @@
       "time": "22:00",
       "platform": "tiktok",
       "title": "Fila do TikTok · 22h",
-      "status": "rotina",
-      "pill": "PREVISTO (ROTINA)",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
       "kind": "Fila TikTok",
-      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+      "note": "Nada saiu neste horário da fila do TikTok."
     },
     {
       "id": "2026-11-20-instagram_teste-corte",
@@ -842,17 +842,6 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 20/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
-      "id": "2026-11-20-tiktok-fila-18",
-      "date": "2026-11-20",
-      "time": "18:00",
-      "platform": "tiktok",
-      "title": "Fila do TikTok · 18h",
-      "status": "rotina",
-      "pill": "PREVISTO (ROTINA)",
-      "kind": "Fila TikTok",
-      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
-    },
-    {
       "id": "2026-11-20-youtube-corte",
       "date": "2026-11-20",
       "time": "18:00",
@@ -862,6 +851,17 @@
       "pill": "AGENDADO",
       "kind": "Corte Trabalhado",
       "note": "Short agendado no YouTube: fica público sozinho em 20/11 às 18h00. Título e descrição aprovados, idioma pt-BR."
+    },
+    {
+      "id": "2026-11-20-tiktok-fila-18:14",
+      "date": "2026-11-20",
+      "time": "18:14",
+      "platform": "tiktok",
+      "title": "Comunicação forte é igual a venda simples",
+      "status": "publicado",
+      "pill": "PUBLICADO",
+      "kind": "Fila TikTok",
+      "link": "https://www.tiktok.com/@chrissteimberg/video/7710365030352489735"
     },
     {
       "id": "2026-11-20-instagram_teste-motion",
