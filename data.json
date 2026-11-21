@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "20/11/2026, 19h33 (BRT, America/São Paulo)",
+  "updated": "20/11/2026, 22h14 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -888,15 +888,15 @@
       "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
-      "id": "2026-11-20-tiktok-fila-22",
+      "id": "2026-11-20-tiktok-fila-22:11",
       "date": "2026-11-20",
-      "time": "22:00",
+      "time": "22:11",
       "platform": "tiktok",
-      "title": "Fila do TikTok · 22h",
-      "status": "rotina",
-      "pill": "PREVISTO (ROTINA)",
+      "title": "Os mornos não passarão",
+      "status": "publicado",
+      "pill": "PUBLICADO",
       "kind": "Fila TikTok",
-      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+      "link": "https://www.tiktok.com/@chrissteimberg/video/7710426230251605268"
     },
     {
       "id": "2026-11-21-youtube-short-0800",
