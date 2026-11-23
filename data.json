@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "23/11/2026, 11h46 (BRT, America/São Paulo)",
+  "updated": "23/11/2026, 16h02 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -1150,6 +1150,17 @@
       "pill": "AGENDADO",
       "kind": "Short agendado",
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 24/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-11-24-instagram_feed-frase",
+      "date": "2026-11-24",
+      "time": "12:00",
+      "platform": "instagram_feed",
+      "title": "Eu estava construindo um negócio que me afastava da vida que eu queria viver",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Post de frase",
+      "note": "Imagem no feed, agendada para 12h00 (BRT). Quem comentar LIBERDADE recebe o vídeo no direct."
     },
     {
       "id": "2026-11-24-youtube-short-1200",

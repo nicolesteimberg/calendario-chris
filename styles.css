@@ -231,7 +231,7 @@ button {
 .check.on { background: currentColor; }
 .plat-youtube { color: #b00000; }
 .plat-tiktok { color: #0f0f0f; }
-.plat-instagram_teste, .plat-instagram_reel { color: #c2185b; }
+.plat-instagram_teste, .plat-instagram_reel, .plat-instagram_feed { color: #c2185b; }
 
 .main { flex: 1 1 640px; min-width: 0; }
 
@@ -491,7 +491,7 @@ button {
 .event.vazio.ev-bloqueado, .event.vazio.ev-atencao { color: #2b2b2b; border: 1px solid #4a4a4a; background: #f2f2f2; }
 .event.youtube { background: #b00000; }
 .event.tiktok { background: #0f0f0f; }
-.event.instagram_teste, .event.instagram_reel { background: #c2185b; }
+.event.instagram_teste, .event.instagram_reel, .event.instagram_feed { background: #c2185b; }
 .event-stripe {
   position: absolute;
   left: 0; top: 0; bottom: 0;
@@ -499,7 +499,7 @@ button {
 }
 .event-stripe.youtube { background: #ff0000; }
 .event-stripe.tiktok { background: linear-gradient(180deg, #25f4ee 0%, #0f0f0f 42%, #fe2c55 100%); }
-.event-stripe.instagram_teste, .event-stripe.instagram_reel {
+.event-stripe.instagram_teste, .event-stripe.instagram_reel, .event-stripe.instagram_feed {
   background: linear-gradient(180deg, #e1306c 0%, #f77737 100%);
 }
 .event-row {
@@ -584,7 +584,7 @@ button {
 /* v5 — contraste dos cartões da grade (Dia/Semana). Texto ≥ 4,5:1 (WCAG AA). */
 .event.youtube { --pc: #b00000; --tint: #fdeaea; }
 .event.tiktok { --pc: #0f0f0f; --tint: #ececec; }
-.event.instagram_teste, .event.instagram_reel { --pc: #ad1457; --tint: #fce4ef; }
+.event.instagram_teste, .event.instagram_reel, .event.instagram_feed { --pc: #ad1457; --tint: #fce4ef; }
 .event.solid { background: var(--pc); color: #ffffff; }
 .event.solid .event-time, .event.solid .event-title { color: #ffffff; opacity: 1; }
 .event.solid .event-time { font-weight: 800; }

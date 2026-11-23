@@ -12,18 +12,20 @@
   ];
   const DOW = ["Seg", "Ter", "Qua", "Qui", "Sex", "Sáb", "Dom"];
   const DOW_FULL = ["Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado", "Domingo"];
-  const PLATFORMS = ["youtube", "tiktok", "instagram_teste", "instagram_reel"];
+  const PLATFORMS = ["youtube", "tiktok", "instagram_teste", "instagram_reel", "instagram_feed"];
   const PLATFORM_LABEL = {
     youtube: "YouTube",
     tiktok: "TikTok",
     instagram_teste: "Instagram teste",
     instagram_reel: "Instagram reel",
+    instagram_feed: "Instagram feed",
   };
   const PLATFORM_SHORT = {
     youtube: "YT",
     tiktok: "TT",
     instagram_teste: "IG teste",
     instagram_reel: "IG reel",
+    instagram_feed: "IG feed",
   };
   const TZ = "America/Sao_Paulo";
 
@@ -31,7 +33,7 @@
     data: null,
     view: "mes",
     cursor: null,
-    enabled: { youtube: true, tiktok: true, instagram_teste: true, instagram_reel: true },
+    enabled: { youtube: true, tiktok: true, instagram_teste: true, instagram_reel: true, instagram_feed: true },
     selected: null,
     open: {},
     today: "",
@@ -221,7 +223,7 @@
     })[status] || status;
   }
   function shortTitle(post) {
-    const ig = post.platform === "instagram_teste" ? "TESTE · " : post.platform === "instagram_reel" ? "REEL · " : "";
+    const ig = post.platform === "instagram_teste" ? "TESTE · " : post.platform === "instagram_reel" ? "REEL · " : post.platform === "instagram_feed" ? "FEED · " : "";
     return ig + post.kind + " · " + post.title;
   }
   function sortPosts(a, b) {
@@ -512,7 +514,7 @@
 
   /* ---------- Resumo por plataforma ---------- */
   const GROUPS = [
-    { key: "instagram", label: "Instagram", logo: "instagram_teste", platforms: ["instagram_reel", "instagram_teste"] },
+    { key: "instagram", label: "Instagram", logo: "instagram_teste", platforms: ["instagram_feed", "instagram_reel", "instagram_teste"] },
     { key: "tiktok", label: "TikTok", logo: "tiktok", platforms: ["tiktok"] },
     { key: "youtube", label: "YouTube", logo: "youtube", platforms: ["youtube"] },
   ];
@@ -537,6 +539,7 @@
     return t;
   }
   function igType(p) {
+    if (p.platform === "instagram_feed") return "post no feed";
     if (p.platform === "instagram_reel") return "reel normal";
     if (p.platform === "instagram_teste") return "reel teste";
     return "";
