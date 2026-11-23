@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "20/11/2026, 22h14 (BRT, America/São Paulo)",
+  "updated": "23/11/2026, 11h46 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -1123,22 +1123,22 @@
       "date": "2026-11-24",
       "time": "08:00",
       "platform": "instagram_teste",
-      "title": "Corte do dia",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "Corte",
-      "note": "Nenhum corte preparado para este dia."
+      "title": "Parar de produzir conteúdo cobra meses depois",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Corte Cru",
+      "note": "Agendado para 08h00 (BRT). Trial reel, legenda vazia, graduação manual."
     },
     {
       "id": "2026-11-24-tiktok-corte",
       "date": "2026-11-24",
       "time": "08:00",
       "platform": "tiktok",
-      "title": "Corte do dia",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "Corte",
-      "note": "Nenhum corte preparado para este dia."
+      "title": "Parar de produzir conteúdo cobra meses depois",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Corte Cru",
+      "note": "Agendado para 08h00 (BRT)."
     },
     {
       "id": "2026-11-24-youtube-short-0800",
@@ -1185,15 +1185,15 @@
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
-      "id": "2026-11-24-youtube-yt",
+      "id": "2026-11-24-youtube-corte",
       "date": "2026-11-24",
       "time": "18:00",
       "platform": "youtube",
-      "title": "Corte do dia",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "Corte",
-      "note": "Nenhum corte preparado para este dia. Os cortes vão ao YouTube agendados para as 18h."
+      "title": "Parar de produzir conteúdo cobra meses depois",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Corte Cru",
+      "note": "Short agendado no YouTube: fica público sozinho em 24/11 às 18h00. Título e descrição aprovados, idioma pt-BR."
     },
     {
       "id": "2026-11-24-instagram_teste-motion",
@@ -1233,22 +1233,22 @@
       "date": "2026-11-25",
       "time": "08:00",
       "platform": "instagram_teste",
-      "title": "Corte do dia",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "Corte",
-      "note": "Nenhum corte preparado para este dia."
+      "title": "Conteúdo no YouTube: tempo de tela aumenta a conversão",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Corte Trabalhado",
+      "note": "Agendado para 08h00 (BRT). Trial reel, legenda vazia, graduação manual."
     },
     {
       "id": "2026-11-25-tiktok-corte",
       "date": "2026-11-25",
       "time": "08:00",
       "platform": "tiktok",
-      "title": "Corte do dia",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "Corte",
-      "note": "Nenhum corte preparado para este dia."
+      "title": "Conteúdo no YouTube: tempo de tela aumenta a conversão",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Corte Trabalhado",
+      "note": "Agendado para 08h00 (BRT)."
     },
     {
       "id": "2026-11-25-youtube-short-0800",
@@ -1295,15 +1295,15 @@
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
-      "id": "2026-11-25-youtube-yt",
+      "id": "2026-11-25-youtube-corte",
       "date": "2026-11-25",
       "time": "18:00",
       "platform": "youtube",
-      "title": "Corte do dia",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "Corte",
-      "note": "Nenhum corte preparado para este dia. Os cortes vão ao YouTube agendados para as 18h."
+      "title": "Conteúdo no YouTube: tempo de tela aumenta a conversão",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Corte Trabalhado",
+      "note": "Short agendado no YouTube: fica público sozinho em 25/11 às 18h00. Título e descrição aprovados, idioma pt-BR."
     },
     {
       "id": "2026-11-25-instagram_teste-motion",
@@ -1343,22 +1343,22 @@
       "date": "2026-11-26",
       "time": "08:00",
       "platform": "instagram_teste",
-      "title": "Corte do dia",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "Corte",
-      "note": "Nenhum corte preparado para este dia."
+      "title": "Preguiça trava o conteúdo da sua própria vida",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Corte Cru",
+      "note": "Agendado para 08h00 (BRT). Trial reel, legenda vazia, graduação manual."
     },
     {
       "id": "2026-11-26-tiktok-corte",
       "date": "2026-11-26",
       "time": "08:00",
       "platform": "tiktok",
-      "title": "Corte do dia",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "Corte",
-      "note": "Nenhum corte preparado para este dia."
+      "title": "Preguiça trava o conteúdo da sua própria vida",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Corte Cru",
+      "note": "Agendado para 08h00 (BRT)."
     },
     {
       "id": "2026-11-26-youtube-short-0800",
@@ -1405,15 +1405,15 @@
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
-      "id": "2026-11-26-youtube-yt",
+      "id": "2026-11-26-youtube-corte",
       "date": "2026-11-26",
       "time": "18:00",
       "platform": "youtube",
-      "title": "Corte do dia",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "Corte",
-      "note": "Nenhum corte preparado para este dia. Os cortes vão ao YouTube agendados para as 18h."
+      "title": "Preguiça trava o conteúdo da sua própria vida",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Corte Cru",
+      "note": "Short agendado no YouTube: fica público sozinho em 26/11 às 18h00. Título e descrição aprovados, idioma pt-BR."
     },
     {
       "id": "2026-11-26-instagram_teste-motion",
@@ -1453,22 +1453,22 @@
       "date": "2026-11-27",
       "time": "08:00",
       "platform": "instagram_teste",
-      "title": "Corte do dia",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "Corte",
-      "note": "Nenhum corte preparado para este dia."
+      "title": "Efeito cadeia: se a rotina quebra, o negócio para",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Corte Trabalhado",
+      "note": "Agendado para 08h00 (BRT). Trial reel, legenda vazia, graduação manual."
     },
     {
       "id": "2026-11-27-tiktok-corte",
       "date": "2026-11-27",
       "time": "08:00",
       "platform": "tiktok",
-      "title": "Corte do dia",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "Corte",
-      "note": "Nenhum corte preparado para este dia."
+      "title": "Efeito cadeia: se a rotina quebra, o negócio para",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Corte Trabalhado",
+      "note": "Agendado para 08h00 (BRT)."
     },
     {
       "id": "2026-11-27-youtube-short-0800",
@@ -1515,15 +1515,15 @@
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
-      "id": "2026-11-27-youtube-yt",
+      "id": "2026-11-27-youtube-corte",
       "date": "2026-11-27",
       "time": "18:00",
       "platform": "youtube",
-      "title": "Corte do dia",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "Corte",
-      "note": "Nenhum corte preparado para este dia. Os cortes vão ao YouTube agendados para as 18h."
+      "title": "Efeito cadeia: se a rotina quebra, o negócio para",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Corte Trabalhado",
+      "note": "Short agendado no YouTube: fica público sozinho em 27/11 às 18h00. Título e descrição aprovados, idioma pt-BR."
     },
     {
       "id": "2026-11-27-instagram_teste-motion",
