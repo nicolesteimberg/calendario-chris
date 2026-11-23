@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "23/11/2026, 16h02 (BRT, America/São Paulo)",
+  "updated": "23/11/2026, 17h53 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -1009,28 +1009,6 @@
       "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
-      "id": "2026-11-23-instagram_teste-corte",
-      "date": "2026-11-23",
-      "time": "08:00",
-      "platform": "instagram_teste",
-      "title": "Corte do dia",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "Corte",
-      "note": "Nenhum corte preparado para este dia."
-    },
-    {
-      "id": "2026-11-23-tiktok-corte",
-      "date": "2026-11-23",
-      "time": "08:00",
-      "platform": "tiktok",
-      "title": "Corte do dia",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "Corte",
-      "note": "Nenhum corte preparado para este dia."
-    },
-    {
       "id": "2026-11-23-youtube-short-0800",
       "date": "2026-11-23",
       "time": "08:00",
@@ -1064,6 +1042,28 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 23/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
+      "id": "2026-11-23-instagram_teste-corte",
+      "date": "2026-11-23",
+      "time": "18:00",
+      "platform": "instagram_teste",
+      "title": "Parar de produzir conteúdo cobra meses depois",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Corte Cru",
+      "note": "Agendado para 08h00 (BRT). Trial reel, legenda vazia, graduação manual."
+    },
+    {
+      "id": "2026-11-23-tiktok-corte",
+      "date": "2026-11-23",
+      "time": "18:00",
+      "platform": "tiktok",
+      "title": "Parar de produzir conteúdo cobra meses depois",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Corte Cru",
+      "note": "Agendado para 08h00 (BRT)."
+    },
+    {
       "id": "2026-11-23-tiktok-fila-18",
       "date": "2026-11-23",
       "time": "18:00",
@@ -1075,15 +1075,15 @@
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
-      "id": "2026-11-23-youtube-yt",
+      "id": "2026-11-23-youtube-corte",
       "date": "2026-11-23",
       "time": "18:00",
       "platform": "youtube",
-      "title": "Corte do dia",
-      "status": "vazio",
-      "pill": "SEM VÍDEO",
-      "kind": "Corte",
-      "note": "Nenhum corte preparado para este dia. Os cortes vão ao YouTube agendados para as 18h."
+      "title": "Parar de produzir conteúdo cobra meses depois",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Corte Cru",
+      "note": "Short agendado no YouTube: fica público sozinho em 23/11 às 18h00. Título e descrição aprovados, idioma pt-BR."
     },
     {
       "id": "2026-11-23-instagram_teste-motion",
@@ -1123,10 +1123,10 @@
       "date": "2026-11-24",
       "time": "08:00",
       "platform": "instagram_teste",
-      "title": "Parar de produzir conteúdo cobra meses depois",
+      "title": "Conteúdo no YouTube: tempo de tela aumenta a conversão",
       "status": "agendado",
       "pill": "AGENDADO",
-      "kind": "Corte Cru",
+      "kind": "Corte Trabalhado",
       "note": "Agendado para 08h00 (BRT). Trial reel, legenda vazia, graduação manual."
     },
     {
@@ -1134,10 +1134,10 @@
       "date": "2026-11-24",
       "time": "08:00",
       "platform": "tiktok",
-      "title": "Parar de produzir conteúdo cobra meses depois",
+      "title": "Conteúdo no YouTube: tempo de tela aumenta a conversão",
       "status": "agendado",
       "pill": "AGENDADO",
-      "kind": "Corte Cru",
+      "kind": "Corte Trabalhado",
       "note": "Agendado para 08h00 (BRT)."
     },
     {
@@ -1200,10 +1200,10 @@
       "date": "2026-11-24",
       "time": "18:00",
       "platform": "youtube",
-      "title": "Parar de produzir conteúdo cobra meses depois",
+      "title": "Conteúdo no YouTube: tempo de tela aumenta a conversão",
       "status": "agendado",
       "pill": "AGENDADO",
-      "kind": "Corte Cru",
+      "kind": "Corte Trabalhado",
       "note": "Short agendado no YouTube: fica público sozinho em 24/11 às 18h00. Título e descrição aprovados, idioma pt-BR."
     },
     {
@@ -1244,10 +1244,10 @@
       "date": "2026-11-25",
       "time": "08:00",
       "platform": "instagram_teste",
-      "title": "Conteúdo no YouTube: tempo de tela aumenta a conversão",
+      "title": "Preguiça trava o conteúdo da sua própria vida",
       "status": "agendado",
       "pill": "AGENDADO",
-      "kind": "Corte Trabalhado",
+      "kind": "Corte Cru",
       "note": "Agendado para 08h00 (BRT). Trial reel, legenda vazia, graduação manual."
     },
     {
@@ -1255,10 +1255,10 @@
       "date": "2026-11-25",
       "time": "08:00",
       "platform": "tiktok",
-      "title": "Conteúdo no YouTube: tempo de tela aumenta a conversão",
+      "title": "Preguiça trava o conteúdo da sua própria vida",
       "status": "agendado",
       "pill": "AGENDADO",
-      "kind": "Corte Trabalhado",
+      "kind": "Corte Cru",
       "note": "Agendado para 08h00 (BRT)."
     },
     {
@@ -1310,10 +1310,10 @@
       "date": "2026-11-25",
       "time": "18:00",
       "platform": "youtube",
-      "title": "Conteúdo no YouTube: tempo de tela aumenta a conversão",
+      "title": "Preguiça trava o conteúdo da sua própria vida",
       "status": "agendado",
       "pill": "AGENDADO",
-      "kind": "Corte Trabalhado",
+      "kind": "Corte Cru",
       "note": "Short agendado no YouTube: fica público sozinho em 25/11 às 18h00. Título e descrição aprovados, idioma pt-BR."
     },
     {
@@ -1354,10 +1354,10 @@
       "date": "2026-11-26",
       "time": "08:00",
       "platform": "instagram_teste",
-      "title": "Preguiça trava o conteúdo da sua própria vida",
+      "title": "Efeito cadeia: se a rotina quebra, o negócio para",
       "status": "agendado",
       "pill": "AGENDADO",
-      "kind": "Corte Cru",
+      "kind": "Corte Trabalhado",
       "note": "Agendado para 08h00 (BRT). Trial reel, legenda vazia, graduação manual."
     },
     {
@@ -1365,10 +1365,10 @@
       "date": "2026-11-26",
       "time": "08:00",
       "platform": "tiktok",
-      "title": "Preguiça trava o conteúdo da sua própria vida",
+      "title": "Efeito cadeia: se a rotina quebra, o negócio para",
       "status": "agendado",
       "pill": "AGENDADO",
-      "kind": "Corte Cru",
+      "kind": "Corte Trabalhado",
       "note": "Agendado para 08h00 (BRT)."
     },
     {
@@ -1420,10 +1420,10 @@
       "date": "2026-11-26",
       "time": "18:00",
       "platform": "youtube",
-      "title": "Preguiça trava o conteúdo da sua própria vida",
+      "title": "Efeito cadeia: se a rotina quebra, o negócio para",
       "status": "agendado",
       "pill": "AGENDADO",
-      "kind": "Corte Cru",
+      "kind": "Corte Trabalhado",
       "note": "Short agendado no YouTube: fica público sozinho em 26/11 às 18h00. Título e descrição aprovados, idioma pt-BR."
     },
     {
@@ -1464,22 +1464,22 @@
       "date": "2026-11-27",
       "time": "08:00",
       "platform": "instagram_teste",
-      "title": "Efeito cadeia: se a rotina quebra, o negócio para",
-      "status": "agendado",
-      "pill": "AGENDADO",
-      "kind": "Corte Trabalhado",
-      "note": "Agendado para 08h00 (BRT). Trial reel, legenda vazia, graduação manual."
+      "title": "Corte do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Corte",
+      "note": "Nenhum corte preparado para este dia."
     },
     {
       "id": "2026-11-27-tiktok-corte",
       "date": "2026-11-27",
       "time": "08:00",
       "platform": "tiktok",
-      "title": "Efeito cadeia: se a rotina quebra, o negócio para",
-      "status": "agendado",
-      "pill": "AGENDADO",
-      "kind": "Corte Trabalhado",
-      "note": "Agendado para 08h00 (BRT)."
+      "title": "Corte do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Corte",
+      "note": "Nenhum corte preparado para este dia."
     },
     {
       "id": "2026-11-27-youtube-short-0800",
@@ -1526,15 +1526,15 @@
       "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
     },
     {
-      "id": "2026-11-27-youtube-corte",
+      "id": "2026-11-27-youtube-yt",
       "date": "2026-11-27",
       "time": "18:00",
       "platform": "youtube",
-      "title": "Efeito cadeia: se a rotina quebra, o negócio para",
-      "status": "agendado",
-      "pill": "AGENDADO",
-      "kind": "Corte Trabalhado",
-      "note": "Short agendado no YouTube: fica público sozinho em 27/11 às 18h00. Título e descrição aprovados, idioma pt-BR."
+      "title": "Corte do dia",
+      "status": "vazio",
+      "pill": "SEM VÍDEO",
+      "kind": "Corte",
+      "note": "Nenhum corte preparado para este dia. Os cortes vão ao YouTube agendados para as 18h."
     },
     {
       "id": "2026-11-27-instagram_teste-motion",
