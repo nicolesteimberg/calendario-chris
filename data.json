@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "23/11/2026, 17h53 (BRT, America/São Paulo)",
+  "updated": "23/11/2026, 18h15 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -1064,17 +1064,6 @@
       "note": "Agendado para 08h00 (BRT)."
     },
     {
-      "id": "2026-11-23-tiktok-fila-18",
-      "date": "2026-11-23",
-      "time": "18:00",
-      "platform": "tiktok",
-      "title": "Fila do TikTok · 18h",
-      "status": "rotina",
-      "pill": "PREVISTO (ROTINA)",
-      "kind": "Fila TikTok",
-      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
-    },
-    {
       "id": "2026-11-23-youtube-corte",
       "date": "2026-11-23",
       "time": "18:00",
@@ -1084,6 +1073,17 @@
       "pill": "AGENDADO",
       "kind": "Corte Cru",
       "note": "Short agendado no YouTube: fica público sozinho em 23/11 às 18h00. Título e descrição aprovados, idioma pt-BR."
+    },
+    {
+      "id": "2026-11-23-tiktok-fila-18:13",
+      "date": "2026-11-23",
+      "time": "18:13",
+      "platform": "tiktok",
+      "title": "Tráfego orgânico ou pago para vender mentorias?",
+      "status": "publicado",
+      "pill": "PUBLICADO",
+      "kind": "Fila TikTok",
+      "link": "https://www.tiktok.com/@chrissteimberg/video/7711478017427508488"
     },
     {
       "id": "2026-11-23-instagram_teste-motion",
