@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "23/11/2026, 18h15 (BRT, America/São Paulo)",
+  "updated": "24/11/2026, 07h59 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -1108,37 +1108,38 @@
       "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
-      "id": "2026-11-23-tiktok-fila-22",
+      "id": "2026-11-23-tiktok-fila-22:16",
       "date": "2026-11-23",
-      "time": "22:00",
+      "time": "22:16",
       "platform": "tiktok",
-      "title": "Fila do TikTok · 22h",
-      "status": "rotina",
-      "pill": "PREVISTO (ROTINA)",
+      "title": "Não terá mais espaço para profissionais assim",
+      "status": "publicado",
+      "pill": "PUBLICADO",
       "kind": "Fila TikTok",
-      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+      "note": "Publicado na fila do TikTok. A URL pública não ficou gravada."
     },
     {
       "id": "2026-11-24-instagram_teste-corte",
       "date": "2026-11-24",
-      "time": "08:00",
+      "time": "07:58",
       "platform": "instagram_teste",
       "title": "Conteúdo no YouTube: tempo de tela aumenta a conversão",
-      "status": "agendado",
-      "pill": "AGENDADO",
+      "status": "publicado",
+      "pill": "PUBLICADO",
       "kind": "Corte Trabalhado",
-      "note": "Agendado para 08h00 (BRT). Trial reel, legenda vazia, graduação manual."
+      "link": "https://www.instagram.com/reel/DgHy4Bsk6Hc/",
+      "note": "Trial reel, legenda vazia, graduação manual."
     },
     {
       "id": "2026-11-24-tiktok-corte",
       "date": "2026-11-24",
-      "time": "08:00",
+      "time": "07:58",
       "platform": "tiktok",
       "title": "Conteúdo no YouTube: tempo de tela aumenta a conversão",
-      "status": "agendado",
-      "pill": "AGENDADO",
+      "status": "publicado",
+      "pill": "PUBLICADO",
       "kind": "Corte Trabalhado",
-      "note": "Agendado para 08h00 (BRT)."
+      "link": "https://www.tiktok.com/@chrissteimberg/video/7711690649480760577"
     },
     {
       "id": "2026-11-24-youtube-short-0800",
