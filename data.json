@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "25/11/2026, 11h41 (BRT, America/São Paulo)",
+  "updated": "25/11/2026, 11h52 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -1385,6 +1385,28 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 26/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
+      "id": "2026-11-26-instagram_reel-serie-ia-1",
+      "date": "2026-11-26",
+      "time": "12:00",
+      "platform": "instagram_reel",
+      "title": "Ainda usa IA da maneira antiga?",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Reel no feed",
+      "note": "Série (v3): Reel normal no feed, sem legenda, agendado para 12h00 (BRT)."
+    },
+    {
+      "id": "2026-11-26-tiktok-serie-ia-1",
+      "date": "2026-11-26",
+      "time": "12:00",
+      "platform": "tiktok",
+      "title": "Ainda usa IA da maneira antiga?",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Série TikTok",
+      "note": "Série (v3): TikTok sem legenda, agendado para 12h00 (BRT)."
+    },
+    {
       "id": "2026-11-26-youtube-short-1200",
       "date": "2026-11-26",
       "time": "12:00",
@@ -1396,6 +1418,17 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 26/11 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
+      "id": "2026-11-26-youtube-serie-ia-1",
+      "date": "2026-11-26",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Como usar IA no negócio além do ChatGPT",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short da série",
+      "note": "Série (v3): Short enviado privado com SEO em pt-BR, programado para ficar público às 12h00 (BRT)."
+    },
+    {
       "id": "2026-11-26-youtube-short-1500",
       "date": "2026-11-26",
       "time": "15:00",
@@ -1405,6 +1438,17 @@
       "pill": "AGENDADO",
       "kind": "Short agendado",
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 26/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-11-26-instagram_reel-serie-img3016",
+      "date": "2026-11-26",
+      "time": "18:00",
+      "platform": "instagram_reel",
+      "title": "Existem duas formas de crescer seu perfil",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Reel no feed",
+      "note": "Série (v3): Reel normal no feed, sem legenda, agendado para 18h00 (BRT)."
     },
     {
       "id": "2026-11-26-tiktok-fila-18",
@@ -1495,15 +1539,26 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 27/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
-      "id": "2026-11-27-instagram_reel-serie",
+      "id": "2026-11-27-instagram_reel-serie-split-2",
       "date": "2026-11-27",
       "time": "12:00",
       "platform": "instagram_reel",
-      "title": "Ainda usa IA da maneira antiga?",
+      "title": "Viralizar não é o único caminho",
       "status": "agendado",
       "pill": "AGENDADO",
       "kind": "Reel no feed",
-      "note": "Reel normal no feed, sem legenda, agendado para 12h00 (BRT)."
+      "note": "Série (v3): Reel normal no feed, sem legenda, agendado para 12h00 (BRT)."
+    },
+    {
+      "id": "2026-11-27-tiktok-serie-img3016",
+      "date": "2026-11-27",
+      "time": "12:00",
+      "platform": "tiktok",
+      "title": "Existem duas formas de crescer seu perfil",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Série TikTok",
+      "note": "Série (v3): TikTok sem legenda, agendado para 12h00 (BRT)."
     },
     {
       "id": "2026-11-27-youtube-short-1200",
@@ -1517,6 +1572,17 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 27/11 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
+      "id": "2026-11-27-youtube-serie-img3016",
+      "date": "2026-11-27",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "2 formas de crescer no Instagram para vender mentorias",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short da série",
+      "note": "Série (v3): Short enviado privado com SEO em pt-BR, programado para ficar público às 12h00 (BRT)."
+    },
+    {
       "id": "2026-11-27-youtube-short-1500",
       "date": "2026-11-27",
       "time": "15:00",
@@ -1526,6 +1592,17 @@
       "pill": "AGENDADO",
       "kind": "Short agendado",
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 27/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-11-27-instagram_reel-serie-ia-2",
+      "date": "2026-11-27",
+      "time": "18:00",
+      "platform": "instagram_reel",
+      "title": "O trabalho chato, quem faz é IA",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Reel no feed",
+      "note": "Série (v3): Reel normal no feed, sem legenda, agendado para 18h00 (BRT)."
     },
     {
       "id": "2026-11-27-tiktok-fila-18",
@@ -1594,6 +1671,28 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 28/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
+      "id": "2026-11-28-instagram_reel-serie-img3055",
+      "date": "2026-11-28",
+      "time": "12:00",
+      "platform": "instagram_reel",
+      "title": "Meu único trabalho hoje é gravar vídeos",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Reel no feed",
+      "note": "Série (v3): Reel normal no feed, sem legenda, agendado para 12h00 (BRT)."
+    },
+    {
+      "id": "2026-11-28-tiktok-serie-split-2",
+      "date": "2026-11-28",
+      "time": "12:00",
+      "platform": "tiktok",
+      "title": "Viralizar não é o único caminho",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Série TikTok",
+      "note": "Série (v3): TikTok sem legenda, agendado para 12h00 (BRT)."
+    },
+    {
       "id": "2026-11-28-youtube-short-1200",
       "date": "2026-11-28",
       "time": "12:00",
@@ -1605,6 +1704,17 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 28/11 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
+      "id": "2026-11-28-youtube-serie-split-2",
+      "date": "2026-11-28",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Por que viralizar não é o caminho para vender mentorias",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short da série",
+      "note": "Série (v3): Short enviado privado com SEO em pt-BR, programado para ficar público às 12h00 (BRT)."
+    },
+    {
       "id": "2026-11-28-youtube-short-1500",
       "date": "2026-11-28",
       "time": "15:00",
@@ -1614,6 +1724,17 @@
       "pill": "AGENDADO",
       "kind": "Short agendado",
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 28/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos. Atenção: o título é genérico (\"Reel de Chris Steimberg\"); vale trocar no Studio antes do horário."
+    },
+    {
+      "id": "2026-11-28-instagram_reel-serie-split-3",
+      "date": "2026-11-28",
+      "time": "18:00",
+      "platform": "instagram_reel",
+      "title": "O valor que você cobra e o valor que você gera",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Reel no feed",
+      "note": "Série (v3): Reel normal no feed, sem legenda, agendado para 18h00 (BRT)."
     },
     {
       "id": "2026-11-28-instagram_teste-motion",
@@ -1649,6 +1770,28 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 29/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
+      "id": "2026-11-29-instagram_reel-serie-img3087",
+      "date": "2026-11-29",
+      "time": "12:00",
+      "platform": "instagram_reel",
+      "title": "Sua âncora emocional está no lugar errado",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Reel no feed",
+      "note": "Série (v3): Reel normal no feed, sem legenda, agendado para 12h00 (BRT)."
+    },
+    {
+      "id": "2026-11-29-tiktok-serie-ia-2",
+      "date": "2026-11-29",
+      "time": "12:00",
+      "platform": "tiktok",
+      "title": "O trabalho chato, quem faz é IA",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Série TikTok",
+      "note": "Série (v3): TikTok sem legenda, agendado para 12h00 (BRT)."
+    },
+    {
       "id": "2026-11-29-youtube-short-1200",
       "date": "2026-11-29",
       "time": "12:00",
@@ -1660,6 +1803,17 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 29/11 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
+      "id": "2026-11-29-youtube-serie-ia-2",
+      "date": "2026-11-29",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Como usar IA para fazer o trabalho chato da sua mentoria",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short da série",
+      "note": "Série (v3): Short enviado privado com SEO em pt-BR, programado para ficar público às 12h00 (BRT)."
+    },
+    {
       "id": "2026-11-29-youtube-short-1500",
       "date": "2026-11-29",
       "time": "15:00",
@@ -1669,6 +1823,17 @@
       "pill": "AGENDADO",
       "kind": "Short agendado",
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 29/11 às 15h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-11-29-instagram_reel-serie-img3093",
+      "date": "2026-11-29",
+      "time": "18:00",
+      "platform": "instagram_reel",
+      "title": "Quando o criativo vira gestor, o negócio acaba",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Reel no feed",
+      "note": "Série (v3): Reel normal no feed, sem legenda, agendado para 18h00 (BRT)."
     },
     {
       "id": "2026-11-29-instagram_teste-motion",
@@ -1726,15 +1891,26 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 30/11 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
-      "id": "2026-11-30-instagram_reel-serie",
+      "id": "2026-11-30-instagram_reel-serie-split-4",
       "date": "2026-11-30",
       "time": "12:00",
       "platform": "instagram_reel",
-      "title": "Existem duas formas de crescer seu perfil",
+      "title": "É tudo sobre comportamento humano",
       "status": "agendado",
       "pill": "AGENDADO",
       "kind": "Reel no feed",
-      "note": "Reel normal no feed, sem legenda, agendado para 12h00 (BRT)."
+      "note": "Série (v3): Reel normal no feed, sem legenda, agendado para 12h00 (BRT)."
+    },
+    {
+      "id": "2026-11-30-tiktok-serie-img3055",
+      "date": "2026-11-30",
+      "time": "12:00",
+      "platform": "tiktok",
+      "title": "Meu único trabalho hoje é gravar vídeos",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Série TikTok",
+      "note": "Série (v3): TikTok sem legenda, agendado para 12h00 (BRT)."
     },
     {
       "id": "2026-11-30-youtube-short-1200",
@@ -1746,6 +1922,17 @@
       "pill": "AGENDADO",
       "kind": "Short agendado",
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 30/11 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos. Atenção: o título é genérico (\"Reel de Chris Steimberg\"); vale trocar no Studio antes do horário."
+    },
+    {
+      "id": "2026-11-30-youtube-serie-img3055",
+      "date": "2026-11-30",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Meu único trabalho hoje é gravar vídeos (a IA faz o resto)",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short da série",
+      "note": "Série (v3): Short enviado privado com SEO em pt-BR, programado para ficar público às 12h00 (BRT)."
     },
     {
       "id": "2026-11-30-youtube-short-1500",
@@ -1847,6 +2034,17 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 01/12 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
+      "id": "2026-12-01-tiktok-serie-split-3",
+      "date": "2026-12-01",
+      "time": "12:00",
+      "platform": "tiktok",
+      "title": "O valor que você cobra e o valor que você gera",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Série TikTok",
+      "note": "Série (v3): TikTok sem legenda, agendado para 12h00 (BRT)."
+    },
+    {
       "id": "2026-12-01-youtube-short-1200",
       "date": "2026-12-01",
       "time": "12:00",
@@ -1856,6 +2054,17 @@
       "pill": "AGENDADO",
       "kind": "Short agendado",
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 01/12 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-01-youtube-serie-split-3",
+      "date": "2026-12-01",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Como cobrar mais caro: valor percebido e confiança na oferta",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short da série",
+      "note": "Série (v3): Short enviado privado com SEO em pt-BR, programado para ficar público às 12h00 (BRT)."
     },
     {
       "id": "2026-12-01-youtube-short-1500",
@@ -1957,15 +2166,15 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 02/12 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
-      "id": "2026-12-02-instagram_reel-serie",
+      "id": "2026-12-02-tiktok-serie-img3087",
       "date": "2026-12-02",
       "time": "12:00",
-      "platform": "instagram_reel",
-      "title": "Viralizar não é o único caminho",
+      "platform": "tiktok",
+      "title": "Sua âncora emocional está no lugar errado",
       "status": "agendado",
       "pill": "AGENDADO",
-      "kind": "Reel no feed",
-      "note": "Reel normal no feed, sem legenda, agendado para 12h00 (BRT)."
+      "kind": "Série TikTok",
+      "note": "Série (v3): TikTok sem legenda, agendado para 12h00 (BRT)."
     },
     {
       "id": "2026-12-02-youtube-short-1200",
@@ -1977,6 +2186,17 @@
       "pill": "AGENDADO",
       "kind": "Short agendado",
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 02/12 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-02-youtube-serie-img3087",
+      "date": "2026-12-02",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Números do Instagram não pagam conta: foque no faturamento",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short da série",
+      "note": "Série (v3): Short enviado privado com SEO em pt-BR, programado para ficar público às 12h00 (BRT)."
     },
     {
       "id": "2026-12-02-youtube-short-1500",
@@ -2078,6 +2298,17 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 03/12 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
+      "id": "2026-12-03-tiktok-serie-img3093",
+      "date": "2026-12-03",
+      "time": "12:00",
+      "platform": "tiktok",
+      "title": "Quando o criativo vira gestor, o negócio acaba",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Série TikTok",
+      "note": "Série (v3): TikTok sem legenda, agendado para 12h00 (BRT)."
+    },
+    {
       "id": "2026-12-03-youtube-short-1200",
       "date": "2026-12-03",
       "time": "12:00",
@@ -2087,6 +2318,17 @@
       "pill": "AGENDADO",
       "kind": "Short agendado",
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 03/12 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-03-youtube-serie-img3093",
+      "date": "2026-12-03",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Quando o criativo vira gestor, o negócio na internet acaba",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short da série",
+      "note": "Série (v3): Short enviado privado com SEO em pt-BR, programado para ficar público às 12h00 (BRT)."
     },
     {
       "id": "2026-12-03-youtube-short-1500",
@@ -2188,15 +2430,15 @@
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 04/12 às 08h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
     },
     {
-      "id": "2026-12-04-instagram_reel-serie",
+      "id": "2026-12-04-tiktok-serie-split-4",
       "date": "2026-12-04",
       "time": "12:00",
-      "platform": "instagram_reel",
-      "title": "O trabalho chato, quem faz é IA",
+      "platform": "tiktok",
+      "title": "É tudo sobre comportamento humano",
       "status": "agendado",
       "pill": "AGENDADO",
-      "kind": "Reel no feed",
-      "note": "Reel normal no feed, sem legenda, agendado para 12h00 (BRT)."
+      "kind": "Série TikTok",
+      "note": "Série (v3): TikTok sem legenda, agendado para 12h00 (BRT)."
     },
     {
       "id": "2026-12-04-youtube-short-1200",
@@ -2208,6 +2450,17 @@
       "pill": "AGENDADO",
       "kind": "Short agendado",
       "note": "Short que estava privado no canal, agendado no YouTube para ficar público em 04/12 às 12h00. Vira público sozinho nesse horário; título e descrição não foram mexidos."
+    },
+    {
+      "id": "2026-12-04-youtube-serie-split-4",
+      "date": "2026-12-04",
+      "time": "12:00",
+      "platform": "youtube",
+      "title": "Pare de buscar hacks: entenda o comportamento do cliente",
+      "status": "agendado",
+      "pill": "AGENDADO",
+      "kind": "Short da série",
+      "note": "Série (v3): Short enviado privado com SEO em pt-BR, programado para ficar público às 12h00 (BRT)."
     },
     {
       "id": "2026-12-04-youtube-short-1500",
@@ -2384,61 +2637,6 @@
       "pill": "SEM VÍDEO",
       "kind": "Motion",
       "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
-    },
-    {
-      "id": "2026-12-07-instagram_reel-serie",
-      "date": "2026-12-07",
-      "time": "12:00",
-      "platform": "instagram_reel",
-      "title": "Meu único trabalho hoje é gravar vídeos",
-      "status": "agendado",
-      "pill": "AGENDADO",
-      "kind": "Reel no feed",
-      "note": "Reel normal no feed, sem legenda, agendado para 12h00 (BRT)."
-    },
-    {
-      "id": "2026-12-09-instagram_reel-serie",
-      "date": "2026-12-09",
-      "time": "12:00",
-      "platform": "instagram_reel",
-      "title": "O valor que você cobra e o valor que você gera",
-      "status": "agendado",
-      "pill": "AGENDADO",
-      "kind": "Reel no feed",
-      "note": "Reel normal no feed, sem legenda, agendado para 12h00 (BRT)."
-    },
-    {
-      "id": "2026-12-11-instagram_reel-serie",
-      "date": "2026-12-11",
-      "time": "12:00",
-      "platform": "instagram_reel",
-      "title": "Sua âncora emocional está no lugar errado",
-      "status": "agendado",
-      "pill": "AGENDADO",
-      "kind": "Reel no feed",
-      "note": "Reel normal no feed, sem legenda, agendado para 12h00 (BRT)."
-    },
-    {
-      "id": "2026-12-14-instagram_reel-serie",
-      "date": "2026-12-14",
-      "time": "12:00",
-      "platform": "instagram_reel",
-      "title": "Quando o criativo vira gestor, o negócio acaba",
-      "status": "agendado",
-      "pill": "AGENDADO",
-      "kind": "Reel no feed",
-      "note": "Reel normal no feed, sem legenda, agendado para 12h00 (BRT)."
-    },
-    {
-      "id": "2026-12-16-instagram_reel-serie",
-      "date": "2026-12-16",
-      "time": "12:00",
-      "platform": "instagram_reel",
-      "title": "É tudo sobre comportamento humano",
-      "status": "agendado",
-      "pill": "AGENDADO",
-      "kind": "Reel no feed",
-      "note": "Reel normal no feed, sem legenda, agendado para 12h00 (BRT)."
     }
   ]
 }
