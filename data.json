@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "25/11/2026, 18h17 (BRT, America/São Paulo)",
+  "updated": "25/11/2026, 22h08 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -1353,15 +1353,15 @@
       "note": "Sem vídeo por enquanto: não há áudio novo na fila do motion. A rotina confere a pasta do Drive às 18h; se chegar áudio, o motion sai às 21h. Não conta como previsto."
     },
     {
-      "id": "2026-11-25-tiktok-fila-22",
+      "id": "2026-11-25-tiktok-fila-22:08",
       "date": "2026-11-25",
-      "time": "22:00",
+      "time": "22:08",
       "platform": "tiktok",
-      "title": "Fila do TikTok · 22h",
-      "status": "rotina",
-      "pill": "PREVISTO (ROTINA)",
+      "title": "7 livros que podem transformar você em uma pessoa 5x melhor em 2027",
+      "status": "publicado",
+      "pill": "PUBLICADO",
       "kind": "Fila TikTok",
-      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+      "note": "Publicado na fila do TikTok. A URL pública não ficou gravada."
     },
     {
       "id": "2026-11-26-instagram_teste-corte",
