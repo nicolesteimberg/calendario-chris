@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "25/11/2026, 22h08 (BRT, America/São Paulo)",
+  "updated": "26/11/2026, 08h00 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -1366,24 +1366,25 @@
     {
       "id": "2026-11-26-instagram_teste-corte",
       "date": "2026-11-26",
-      "time": "08:00",
+      "time": "07:56",
       "platform": "instagram_teste",
       "title": "Efeito cadeia: se a rotina quebra, o negócio para",
-      "status": "agendado",
-      "pill": "AGENDADO",
+      "status": "publicado",
+      "pill": "PUBLICADO",
       "kind": "Corte Trabalhado",
-      "note": "Agendado para 08h00 (BRT). Trial reel, legenda vazia, graduação manual."
+      "link": "https://www.instagram.com/reel/DgM8NvVK1JM/",
+      "note": "Trial reel, legenda vazia, graduação manual."
     },
     {
       "id": "2026-11-26-tiktok-corte",
       "date": "2026-11-26",
-      "time": "08:00",
+      "time": "07:56",
       "platform": "tiktok",
       "title": "Efeito cadeia: se a rotina quebra, o negócio para",
-      "status": "agendado",
-      "pill": "AGENDADO",
+      "status": "publicado",
+      "pill": "PUBLICADO",
       "kind": "Corte Trabalhado",
-      "note": "Agendado para 08h00 (BRT)."
+      "link": "https://www.tiktok.com/@chrissteimberg/video/7712432165019241736"
     },
     {
       "id": "2026-11-26-youtube-short-0800",
