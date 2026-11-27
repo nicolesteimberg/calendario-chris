@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "27/11/2026, 10h18 (BRT, America/São Paulo)",
+  "updated": "27/11/2026, 18h12 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -1609,17 +1609,6 @@
       "note": "Série (v3): Reel normal no feed, sem legenda, agendado para 18h00 (BRT)."
     },
     {
-      "id": "2026-11-27-tiktok-fila-18",
-      "date": "2026-11-27",
-      "time": "18:00",
-      "platform": "tiktok",
-      "title": "Fila do TikTok · 18h",
-      "status": "rotina",
-      "pill": "PREVISTO (ROTINA)",
-      "kind": "Fila TikTok",
-      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
-    },
-    {
       "id": "2026-11-27-youtube-yt",
       "date": "2026-11-27",
       "time": "18:00",
@@ -1629,6 +1618,17 @@
       "pill": "SEM VÍDEO",
       "kind": "Corte",
       "note": "Nenhum corte preparado para este dia. Os cortes vão ao YouTube agendados para as 18h."
+    },
+    {
+      "id": "2026-11-27-tiktok-fila-18:12",
+      "date": "2026-11-27",
+      "time": "18:12",
+      "platform": "tiktok",
+      "title": "Se colocar desafios",
+      "status": "publicado",
+      "pill": "PUBLICADO",
+      "kind": "Fila TikTok",
+      "link": "https://www.tiktok.com/@chrissteimberg/video/7712961535693344021"
     },
     {
       "id": "2026-11-27-instagram_teste-motion",
