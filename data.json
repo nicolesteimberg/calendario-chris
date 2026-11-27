@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "26/11/2026, 18h16 (BRT, America/São Paulo)",
+  "updated": "26/11/2026, 21h13 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -1491,10 +1491,11 @@
       "time": "21:00",
       "platform": "instagram_teste",
       "title": "O cliente que compra a mentoria não precisa de mais uma reunião, de mais um bônus ou de mais um entregável. Ele busca uma transformação: sair do lado A e passar para o lado B, do problema para a solução. Quem oferece, vende e promete isso consegue mais resultado e mais vendas de mentorias e consultorias.",
-      "status": "agendado",
-      "pill": "AGENDADO",
+      "status": "publicado",
+      "pill": "PUBLICADO",
       "kind": "Motion",
-      "note": "Reel de teste, sem legenda. Sai às 21h."
+      "link": "https://www.instagram.com/reel/DgOW7auNJep/",
+      "note": "Trial reel, legenda vazia, graduação manual."
     },
     {
       "id": "2026-11-26-tiktok-motion",
@@ -1502,10 +1503,10 @@
       "time": "21:00",
       "platform": "tiktok",
       "title": "O cliente que compra a mentoria não precisa de mais uma reunião, de mais um bônus ou de mais um entregável. Ele busca uma transformação: sair do lado A e passar para o lado B, do problema para a solução. Quem oferece, vende e promete isso consegue mais resultado e mais vendas de mentorias e consultorias.",
-      "status": "agendado",
-      "pill": "AGENDADO",
+      "status": "publicado",
+      "pill": "PUBLICADO",
       "kind": "Motion",
-      "note": "Motion pronto, sai às 21h."
+      "link": "https://www.tiktok.com/@chrissteimberg/video/7712636469336149269"
     },
     {
       "id": "2026-11-26-tiktok-fila-22",
