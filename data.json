@@ -5,7 +5,7 @@
     "start": "2026-11-09",
     "end": "2026-12-06"
   },
-  "updated": "26/11/2026, 21h13 (BRT, America/São Paulo)",
+  "updated": "26/11/2026, 22h16 (BRT, America/São Paulo)",
   "posts": [
     {
       "id": "2026-11-09-tiktok-corte",
@@ -1509,15 +1509,15 @@
       "link": "https://www.tiktok.com/@chrissteimberg/video/7712636469336149269"
     },
     {
-      "id": "2026-11-26-tiktok-fila-22",
+      "id": "2026-11-26-tiktok-fila-22:14",
       "date": "2026-11-26",
-      "time": "22:00",
+      "time": "22:14",
       "platform": "tiktok",
-      "title": "Fila do TikTok · 22h",
-      "status": "rotina",
-      "pill": "PREVISTO (ROTINA)",
+      "title": "Não economize para perder o seu bem mais precioso, o tempo",
+      "status": "publicado",
+      "pill": "PUBLICADO",
       "kind": "Fila TikTok",
-      "note": "Previsto pela rotina da fila do TikTok: na hora, ela pega o próximo vídeo da fila e publica. Ainda não aparece como agendado no Zernio."
+      "link": "https://www.tiktok.com/@chrissteimberg/video/7712653347009989908"
     },
     {
       "id": "2026-11-27-instagram_teste-corte",
